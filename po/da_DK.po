@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20100208121230\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "camera_ap_camera"
+msgstr "Kamera"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Altid deaktiveret"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Altid aktiveret"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Automatisk"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Fjernelse af røde øjne"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Automatisk"
+
+msgid "camera_bd_mode_action"
+msgstr "Action"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Automatisk"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Automatisk video"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Landskab"
+
+msgid "camera_bd_mode_macro"
+msgstr "Makro"
+
+msgid "camera_bd_mode_night"
+msgstr "Nat"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Natvideo"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Portræt"
+
+msgid "camera_bd_resolution_high"
+msgstr "Høj opløsning"
+
+msgid "camera_bd_resolution_low"
+msgstr "Lav opløsning"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Middel opløsning"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Fin 04:03"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Høj 16:09"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Lav 04:03"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Widescreen-opløsning"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Eksponering"
+
+msgid "camera_bd_settings_iso"
+msgstr "ISO-følsomhed"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Opløsning"
+
+msgid "camera_bd_settings_wb"
+msgstr "Hvidbalance"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Automatisk"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Overskyet"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Fluorescerende"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Solskin"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Wolfram"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Henter geotags"
+
+msgid "camera_fi_creator"
+msgstr "Navn på ophavsmand"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Hukommelse i brug"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Vis taget billede"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Vis optaget video"
+
+msgid "camera_fi_stickytags"
+msgstr "Blivende tags"
+
+msgid "camera_ia_geotag"
+msgstr ""
+"GPS-koordinater og geotags kan optages for billeder og videoklip, hvis GPS "
+"er tilgængelig. Geotagging kræver internetforbindelse og medfører overførlse "
+"af data. Kontakt din netværkstjenesteudbyder for oplysninger om priser for "
+"datatransmission."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Åbn objektivdæksel"
+
+msgid "camera_ia_processing"
+msgstr "Behandler billede"
+
+msgid "camera_ia_standby"
+msgstr "Standby"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr ""
+"Intern hukommelse er ikke tilgængelig. Ekstern hukommelse bruges i stedet "
+"for."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr ""
+"Hukommelseskortet er muligvis ødelagt. Enhedens hukommelse vil blive brugt i "
+"stedet for."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr ""
+"Hukommelseskortet er ikke tilgængeligt. Enhedens hukommelse vil blive brugt "
+"i stedet for."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr ""
+"Hukommelseskortet er skrivebeskyttet. Enhedens hukommelse vil blive brugt i "
+"stedet for."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Hukommelsen er ikke tilgængelig. Kan ikke gemme indhold."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Kun intern lagerhukommelse tilgængelig. Isæt hukommelseskort for at ændre "
+"indstilling."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr ""
+"Indstillingerne kan ikke ændres, før det forrige element er færdigbehandlet"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"Videotilstand kan ikke aktiveres, før det forrige billede er færdigbehandlet"
+
+msgid "camera_ib_not_available"
+msgstr "Ikke tilgængelig"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Handlingen mislykkedes. Lav hukommelse."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Hukommelse fuld. Kan ikke gemme indhold."
+
+msgid "camera_ib_recording_stopped"
+msgstr ""
+"Optagelsen er standset. Ikke mere hukommelse tilbage til at fortsætte "
+"optagelsen."
+
+msgid "camera_me_general_settings"
+msgstr "Generelle indstillinger"
+
+msgid "camera_me_geotag"
+msgstr "Geotagging"
+
+msgid "camera_me_restore_settings"
+msgstr "Gendan indstillinger"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Slet filen '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Gendan standardindstillinger for kamera?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Ikke tilstrækkelig hukommelse til at åbne kameraet"
+
+msgid "camera_ni_operation_failed"
+msgstr "Handlingen mislykkedes"
+
+msgid "camera_ni_operation_processing"
+msgstr "Forrige handling behandles"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Lagring mislykkedes"
+
+msgid "camera_ti_camera_mode"
+msgstr "Kameratilstand"
+
+msgid "camera_ti_camera_settings"
+msgstr "Optagelsesindstillinger"
+
+msgid "camera_ti_exposure"
+msgstr "Juster eksponeringsindstillinger"
+
+msgid "camera_ti_flash"
+msgstr "Blitzindstillinger"
+
+msgid "camera_ti_general"
+msgstr "Generelle indstillinger"
+
+msgid "camera_ti_geotag"
+msgstr "Geotagging"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Aktiver geotagging"
+
+msgid "camera_ti_idle"
+msgstr "Kamera"
+
+msgid "camera_ti_iso"
+msgstr "ISO-følsomhed"
+
+msgid "camera_ti_resolution"
+msgstr "Opløsningsindstillinger"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Optagelsesindstillinger for video"
+
+msgid "camera_ti_video_mode"
+msgstr "Videotilstand"
+
+msgid "camera_ti_white_balance"
+msgstr "Hvidbalance"
+
+msgid "camera_va_memory_internal"
+msgstr "Internt lager"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Ingen timeout"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Nej"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "I %d sekunder"

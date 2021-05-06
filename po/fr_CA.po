@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20100208121230\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "camera_ap_camera"
+msgstr "Appareil photo"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Toujours hors fonction"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Toujours en fonction"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Automatique"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Atténuer les yeux rouges"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Automatique"
+
+msgid "camera_bd_mode_action"
+msgstr "Action"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Automatique"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Vidéo automatique"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Paysage"
+
+msgid "camera_bd_mode_macro"
+msgstr "Macro"
+
+msgid "camera_bd_mode_night"
+msgstr "Nuit"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Vidéo de nuit"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Portrait"
+
+msgid "camera_bd_resolution_high"
+msgstr "Haute résolution"
+
+msgid "camera_bd_resolution_low"
+msgstr "Faible résolution"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Moyenne résolution"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Fine 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Haute 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Basse 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Résolution format 16:9"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Exposition"
+
+msgid "camera_bd_settings_iso"
+msgstr "Sensibilité ISO"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Résolution"
+
+msgid "camera_bd_settings_wb"
+msgstr "Équilibre des blancs"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Automatique"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Nuageux"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Fluorescent"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Ensoleillé"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Tungstène"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Acquisition des balises géographiques"
+
+msgid "camera_fi_creator"
+msgstr "Nom du créateur"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Mémoire utilisée"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Afficher l'image capturée"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Afficher la vidéo capturée"
+
+msgid "camera_fi_stickytags"
+msgstr "Balises adhésives"
+
+msgid "camera_ia_geotag"
+msgstr ""
+"Des coordonnées GPS et des balises géographiques peuvent être enregistrées "
+"pour les images et les vidéos si le GPS est disponible. Le balisage "
+"géographique requiert une connexion Internet et implique la transmission de "
+"données. Communiquez avec votre fournisseur de services pour connaître les "
+"frais éventuels applicables."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Ouvrir le couvre-objectif"
+
+msgid "camera_ia_processing"
+msgstr "Traitement de l'image"
+
+msgid "camera_ia_standby"
+msgstr "Attente"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "Mémoire interne inaccessible. Utiliser une carte mémoire externe."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr ""
+"La carte mémoire est peut-être corrompue. La mémoire du terminal sera "
+"utilisée."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "Carte mémoire non accessible. La mémoire du terminal sera utilisée."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Carte mémoire en lecture seule. La mémoire du terminal sera utilisée."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Mémoire inaccessible. Impossible d'enregistrer le contenu."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Seule la mémoire interne est disponible. Insérer une carte mémoire pour "
+"changer les paramètres."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr ""
+"Impossible de modifier les paramètres avant la fin du traitement de l'image"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"Impossible d'activer le mode vidéo avant que l'image précédente n'ait été "
+"complètement traitée."
+
+msgid "camera_ib_not_available"
+msgstr "Non disponible"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "L'opération a échoué, mémoire insuffisante."
+
+msgid "camera_ib_out_of_storage"
+msgstr ""
+"Mémoire en cours d'utilisation saturée. Impossible d'enregistrer le contenu."
+
+msgid "camera_ib_recording_stopped"
+msgstr ""
+"Arrêt de l'enregistrement. Aucune mémoire disponible pour continuer "
+"l'enregistrement."
+
+msgid "camera_me_general_settings"
+msgstr "Paramètres généraux"
+
+msgid "camera_me_geotag"
+msgstr "Balisage géographique"
+
+msgid "camera_me_restore_settings"
+msgstr "Restaurer les paramètres"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Supprimer le fichier %s ?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Restaurer les paramètres d'appareil photo par défaut ?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Mémoire insuffisante pour utiliser la caméra"
+
+msgid "camera_ni_operation_failed"
+msgstr "Échec de l'opération"
+
+msgid "camera_ni_operation_processing"
+msgstr "Opération précédente en cours de traitement"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Échec de l'enregistrement"
+
+msgid "camera_ti_camera_mode"
+msgstr "Mode appareil photo"
+
+msgid "camera_ti_camera_settings"
+msgstr "Paramètres de capture"
+
+msgid "camera_ti_exposure"
+msgstr "Régler les paramètres d'exposition"
+
+msgid "camera_ti_flash"
+msgstr "Paramètres du flash"
+
+msgid "camera_ti_general"
+msgstr "Paramètres généraux"
+
+msgid "camera_ti_geotag"
+msgstr "Balisage géographique"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Activer le balisage géographique"
+
+msgid "camera_ti_idle"
+msgstr "Appareil photo"
+
+msgid "camera_ti_iso"
+msgstr "Sensibilité ISO"
+
+msgid "camera_ti_resolution"
+msgstr "Paramètres de résolution"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Paramètres de capture vidéo"
+
+msgid "camera_ti_video_mode"
+msgstr "Mode vidéo"
+
+msgid "camera_ti_white_balance"
+msgstr "Équilibre des blancs"
+
+msgid "camera_va_memory_internal"
+msgstr "Mémoire interne"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Indéfiniment"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Non"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "Pendant %d secondes"

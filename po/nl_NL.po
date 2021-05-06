@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20100208121230\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "camera_ap_camera"
+msgstr "Camera"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Altijd uit"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Altijd aan"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Automatisch"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Rode ogen verminderen"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Automatisch"
+
+msgid "camera_bd_mode_action"
+msgstr "Actie"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Automatisch"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Automatische video"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Landschap"
+
+msgid "camera_bd_mode_macro"
+msgstr "Macro"
+
+msgid "camera_bd_mode_night"
+msgstr "Nacht"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Nachtvideo"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Portret"
+
+msgid "camera_bd_resolution_high"
+msgstr "Hoge resolutie"
+
+msgid "camera_bd_resolution_low"
+msgstr "Lage resolutie"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Normale resolutie"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Fijn 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Hoog 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Laag 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Breedbeeldresolutie"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Belichting"
+
+msgid "camera_bd_settings_iso"
+msgstr "ISO-gevoeligheid"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Resolutie"
+
+msgid "camera_bd_settings_wb"
+msgstr "Witbalans"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Automatisch"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Bewolkt"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "TL-licht"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Zonnig"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Kunstlicht"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Bezig met verzamelen van geotags"
+
+msgid "camera_fi_creator"
+msgstr "Naam maker"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Geheugen in gebruik"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Opname weergeven"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Video-opname weergeven"
+
+msgid "camera_fi_stickytags"
+msgstr "Etiketten"
+
+msgid "camera_ia_geotag"
+msgstr ""
+"Coördinaten en geotags kunnen in afbeeldingen en videoclips worden "
+"opgeslagen indien GPS beschikbaar is. Voor geotagging is een "
+"internetverbinding vereist en hierbij vindt gegevensoverdracht plaats. Neem "
+"contact op met uw serviceprovider voor informatie over de kosten voor "
+"gegevensoverdracht."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Lenskap openen"
+
+msgid "camera_ia_processing"
+msgstr "Bezig met verwerken van afbeelding"
+
+msgid "camera_ia_standby"
+msgstr "Stand-by"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr ""
+"Intern geheugen is niet toegankelijk. Externe geheugenkaart wordt gebruikt."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr ""
+"Geheugenkaart is mogelijk beschadigd. Geheugen van apparaat wordt gebruikt."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr ""
+"Geheugenkaart is niet toegankelijk. Geheugen van apparaat wordt gebruikt."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Geheugenkaart is alleen-lezen. Geheugen van apparaat wordt gebruikt."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Geheugen niet toegankelijk. Kan inhoud niet opslaan."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Alleen intern opslaggeheugen beschikbaar. Plaats geheugenkaart om instelling "
+"te wijzigen."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr ""
+"Kan instellingen niet wijzigen voordat vorige item volledig is verwerkt"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"U kunt de modus Video niet activeren voordat het vorige beeld volledig is "
+"verwerkt."
+
+msgid "camera_ib_not_available"
+msgstr "Niet beschikbaar"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Bewerking is mislukt. Onvoldoende geheugen."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Geheugen vol. Kan inhoud niet opslaan."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Opname gestopt. Geen geheugen over om door te gaan met opname."
+
+msgid "camera_me_general_settings"
+msgstr "Algemene instellingen"
+
+msgid "camera_me_geotag"
+msgstr "Geotagging"
+
+msgid "camera_me_restore_settings"
+msgstr "Instellingen herstellen"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Bestand '%s' verwijderen?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Standaard camera-instellingen herstellen?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Onvoldoende geheugen om camera te openen"
+
+msgid "camera_ni_operation_failed"
+msgstr "Bewerking is mislukt"
+
+msgid "camera_ni_operation_processing"
+msgstr "Vorige bewerking wordt uitgevoerd"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Opslaan mislukt"
+
+msgid "camera_ti_camera_mode"
+msgstr "Modus Camera"
+
+msgid "camera_ti_camera_settings"
+msgstr "Opname-instellingen"
+
+msgid "camera_ti_exposure"
+msgstr "Belichtingsinstellingen aanpassen"
+
+msgid "camera_ti_flash"
+msgstr "Flitserinstellingen"
+
+msgid "camera_ti_general"
+msgstr "Algemene instellingen"
+
+msgid "camera_ti_geotag"
+msgstr "Geotagging"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Geotagging inschakelen"
+
+msgid "camera_ti_idle"
+msgstr "Camera"
+
+msgid "camera_ti_iso"
+msgstr "ISO-gevoeligheid"
+
+msgid "camera_ti_resolution"
+msgstr "Resolutie-instellingen"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Instellingen video-opname"
+
+msgid "camera_ti_video_mode"
+msgstr "Modus Video"
+
+msgid "camera_ti_white_balance"
+msgstr "Witbalans"
+
+msgid "camera_va_memory_internal"
+msgstr "Interne opslag"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Geen time-out"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Nee"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "%d seconden"

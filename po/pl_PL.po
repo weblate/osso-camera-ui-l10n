@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20100208121230\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "camera_ap_camera"
+msgstr "Aparat"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Zawsze wyłączona"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Zawsze włączona"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Automatycznie"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Red. efektu czerwonych oczu"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Automatycznie"
+
+msgid "camera_bd_mode_action"
+msgstr "Fotogr. obiektów w ruchu"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Automatyczny"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Automatyczny tryb wideo"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Krajobraz"
+
+msgid "camera_bd_mode_macro"
+msgstr "Makro"
+
+msgid "camera_bd_mode_night"
+msgstr "Tryb nocny"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Nocny tryb wideo"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Portret"
+
+msgid "camera_bd_resolution_high"
+msgstr "Wysoka rozdzielczość"
+
+msgid "camera_bd_resolution_low"
+msgstr "Niska rozdzielczość"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Średnia rozdzielczość"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Dobra 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Wysoka 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Niska 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Rozdz. obrazu panoram."
+
+msgid "camera_bd_settings_exposure"
+msgstr "Ekspozycja"
+
+msgid "camera_bd_settings_iso"
+msgstr "Czułość ISO"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Rozdzielczość"
+
+msgid "camera_bd_settings_wb"
+msgstr "Balans bieli"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Automatycznie"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Pochmurno"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Światło jarzeniówki"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Słonecznie"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Światło żarówki"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Uzyskiwanie znaczników geograficznych"
+
+msgid "camera_fi_creator"
+msgstr "Autor"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Pamięć w użyciu"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Wyświetl zdjęcie"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Wyświetl klip wideo"
+
+msgid "camera_fi_stickytags"
+msgstr "Szybkie znaczniki"
+
+msgid "camera_ia_geotag"
+msgstr ""
+"Współrzędne i znaczniki geograficzne można przypisać do dowolnego obrazu i "
+"klipu wideo, jeżeli GPS jest dostępny. Funkcja znaczników wymaga połączenia "
+"z Internetem i wiąże się z transmisją danych. Informacje dotyczące opłat za "
+"transmisję danych można uzyskać u operatora sieci."
+
+msgid "camera_ia_open_lens_cover"
+msgstr ""
+"Otwórz osłonę \n"
+"obiektywu"
+
+msgid "camera_ia_processing"
+msgstr "Przetwarzanie obrazu"
+
+msgid "camera_ia_standby"
+msgstr "Tryb gotowości"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr ""
+"Pamięć wewnętrzna niedostępna. Zostanie użyta zewnętrzna karta pamięci."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr ""
+"Karta pamięci prawdopodobnie uszkodzona. Zostanie użyta pamięć urządzenia."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "Karta pamięci niedostępna. Zostanie użyta pamięć urządzenia."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Karta pamięci tylko do odczytu. Zostanie użyta pamięć urządzenia."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Pamięć niedostępna. Nie można zapisać zawartości."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Dostępna tylko pamięć wewnętrzna. Aby zmienić ustawienie, włóż kartę pamięci."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr ""
+"Nie można zmienić ustawień do momentu całkowitego przetworzenia poprzedniego "
+"elementu"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"Nie można aktywować trybu wideo przed zakończeniem przetwarzania "
+"poprzedniego obrazu"
+
+msgid "camera_ib_not_available"
+msgstr "Niedostępne"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Operacja nie powiodła się. Za mało pamięci."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Pamięć pełna. Nie można zapisać zawartości."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Nagrywanie zatrzymane. Za mało pamięci, aby kontynuować nagrywanie."
+
+msgid "camera_me_general_settings"
+msgstr "Ustawienia ogólne"
+
+msgid "camera_me_geotag"
+msgstr "Znaczniki geograficzne"
+
+msgid "camera_me_restore_settings"
+msgstr "Przywróć ustawienia"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Usunąć plik %s?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Przywrócić domyślne ustawienia aparatu?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Za mało pamięci, aby uruchomić aparat"
+
+msgid "camera_ni_operation_failed"
+msgstr "Operacja nie powiodła się"
+
+msgid "camera_ni_operation_processing"
+msgstr "Trwa przetwarzanie poprzedniej operacji"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Zapisywanie multimediów nie powiodło się"
+
+msgid "camera_ti_camera_mode"
+msgstr "Tryb aparatu"
+
+msgid "camera_ti_camera_settings"
+msgstr "Ustawienia zdjęć"
+
+msgid "camera_ti_exposure"
+msgstr "Zmień ustawienia ekspozycji"
+
+msgid "camera_ti_flash"
+msgstr "Ustawienia lampy błyskowej"
+
+msgid "camera_ti_general"
+msgstr "Ustawienia ogólne"
+
+msgid "camera_ti_geotag"
+msgstr "Znaczniki geograficzne"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Włącz znaczniki geograficzne"
+
+msgid "camera_ti_idle"
+msgstr "Aparat"
+
+msgid "camera_ti_iso"
+msgstr "Czułość ISO"
+
+msgid "camera_ti_resolution"
+msgstr "Ustawienia rozdzielczości"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Ustawienia klipów wideo"
+
+msgid "camera_ti_video_mode"
+msgstr "Tryb wideo"
+
+msgid "camera_ti_white_balance"
+msgstr "Balans bieli"
+
+msgid "camera_va_memory_internal"
+msgstr "Pamięć wewnętrzna"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Bez limitu czasowego"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Nie"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "Przez %d s"

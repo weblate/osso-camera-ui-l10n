@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20100208121230\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "camera_ap_camera"
+msgstr "Камера"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Всегда выключена"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Всегда включена"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Автоматически"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Подавление красных глаз"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Автоматически"
+
+msgid "camera_bd_mode_action"
+msgstr "Спорт"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Автоматический"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Видеосъемка"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Пейзаж"
+
+msgid "camera_bd_mode_macro"
+msgstr "Макро"
+
+msgid "camera_bd_mode_night"
+msgstr "Ночь"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Ночная видеосъемка"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Портрет"
+
+msgid "camera_bd_resolution_high"
+msgstr "Высокое разрешение"
+
+msgid "camera_bd_resolution_low"
+msgstr "Низкое разрешение"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Среднее разрешение"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Хорошее качество 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Высокое качество 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Низкое качество 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Широкоэкранный режим"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Экспозиция"
+
+msgid "camera_bd_settings_iso"
+msgstr "Чувствительность ISO"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Разрешение"
+
+msgid "camera_bd_settings_wb"
+msgstr "Баланс белого"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Автоматически"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Облачно"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Флуоресцентная лампа"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Солнечно"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Лампа накаливания"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Получение геотэгов"
+
+msgid "camera_fi_creator"
+msgstr "Имя автора"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Используемая память"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Показывать отснятое фото"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Показывать отснятое видео"
+
+msgid "camera_fi_stickytags"
+msgstr "Метки-наклейки"
+
+msgid "camera_ia_geotag"
+msgstr ""
+"При наличии сигнала GPS, к каждому изображению или видеоклипу можно записать "
+"геотэги и координаты GPS. Для геотэггинга необходимо интернет-соединение для "
+"передачи данных. Сведения о стоимости передачи данных можно получить у "
+"поставщика сетевых услуг."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Откройте крышку объектива"
+
+msgid "camera_ia_processing"
+msgstr "Обработка изображения"
+
+msgid "camera_ia_standby"
+msgstr "Ожидание"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr ""
+"Внутренняя память недоступна. Следует использовать внешнюю карту памяти."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr ""
+"Возможно, карта памяти повреждена. Будет использована память устройства."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "Карта памяти недоступна. Будет использована память устройства."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr ""
+"Карта памяти доступна только для чтения. Будет использована память "
+"устройства."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Память недоступна. Не удалось сохранить содержимое."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Доступна только внутренняя память для хранения. Вставьте карту памяти, чтобы "
+"изменить параметры."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "Невозможно изменить параметры до полной обработки предыдущего объекта"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"Режим видео невозможно активировать до полной обработки предыдущего "
+"изображения"
+
+msgid "camera_ib_not_available"
+msgstr "Недоступен"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Сбой операции. Нехватка памяти."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Память заполнена. Не удается сохранить содержимое."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Запись остановлена. Недостаточно памяти для продолжения записи."
+
+msgid "camera_me_general_settings"
+msgstr "Общие параметры"
+
+msgid "camera_me_geotag"
+msgstr "Геотэггинг"
+
+msgid "camera_me_restore_settings"
+msgstr "Восстановить параметры"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Удалить файл '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Восстановить параметры камеры по умолчанию?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Недостаточно памяти, чтобы открыть приложение камеры"
+
+msgid "camera_ni_operation_failed"
+msgstr "Сбой операции."
+
+msgid "camera_ni_operation_processing"
+msgstr "Обрабатывается предыдущая операция"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Не удается сохранить"
+
+msgid "camera_ti_camera_mode"
+msgstr "Режим фото"
+
+msgid "camera_ti_camera_settings"
+msgstr "Параметры съемки"
+
+msgid "camera_ti_exposure"
+msgstr "Параметры экспозиции"
+
+msgid "camera_ti_flash"
+msgstr "Параметры вспышки"
+
+msgid "camera_ti_general"
+msgstr "Общие параметры"
+
+msgid "camera_ti_geotag"
+msgstr "Геотэггинг"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Включить геотэггинг"
+
+msgid "camera_ti_idle"
+msgstr "Камера"
+
+msgid "camera_ti_iso"
+msgstr "Чувствительность ISO"
+
+msgid "camera_ti_resolution"
+msgstr "Параметры разрешения"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Параметры съемки видео"
+
+msgid "camera_ti_video_mode"
+msgstr "Режим видео"
+
+msgid "camera_ti_white_balance"
+msgstr "Баланс белого"
+
+msgid "camera_va_memory_internal"
+msgstr "Внутренняя"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Да"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Нет"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "Только %d сек."

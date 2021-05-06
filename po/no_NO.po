@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20100208121230\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "camera_ap_camera"
+msgstr "Kamera"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Alltid av"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Alltid på"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Automatisk"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Reduksjon av røde øyne"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Automatisk"
+
+msgid "camera_bd_mode_action"
+msgstr "Sport"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Automatisk"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Automatisk video"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Landskap"
+
+msgid "camera_bd_mode_macro"
+msgstr "Nærbilde"
+
+msgid "camera_bd_mode_night"
+msgstr "Natt"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Nattvideo"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Portrett"
+
+msgid "camera_bd_resolution_high"
+msgstr "Høy oppløsning"
+
+msgid "camera_bd_resolution_low"
+msgstr "Lav oppløsning"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Middels oppløsning"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Fin 4 : 3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Høy 16 : 9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Lav 4 : 3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Bredskjermoppløsning"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Eksponering"
+
+msgid "camera_bd_settings_iso"
+msgstr "ISO-følsomhet"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Oppløsning"
+
+msgid "camera_bd_settings_wb"
+msgstr "Hvitbalanse"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Automatisk"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Overskyet"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Fluorescerende"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Sol"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Wolfram"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Henter geokoder"
+
+msgid "camera_fi_creator"
+msgstr "Oppretternavn"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Minne i bruk"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Vis bildet"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Vis videoen"
+
+msgid "camera_fi_stickytags"
+msgstr "Sticky-koder"
+
+msgid "camera_ia_geotag"
+msgstr ""
+"GPS-koordinater og geokoder kan registreres på bilder og videoklipp hvis GPS "
+"er tilgjengelig. Du må ha Internett-tilkobling for å kunne bruke geokoding, "
+"og det innebærer dataoverføring. Kontakt leverandøren av nettverkstjenesten "
+"hvis du vil ha informasjon om priser for dataoverføring."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Åpne linsedekslet"
+
+msgid "camera_ia_processing"
+msgstr "Behandler bilde"
+
+msgid "camera_ia_standby"
+msgstr "Ventemodus"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr ""
+"Det interne minnet er ikke tilgjengelig. Et eksternt minnekort brukes i "
+"stedet."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "Minnekortet er muligens ødelagt. Enhetsminnet brukes i stedet."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "Minnekortet er ikke tilgjengelig. Enhetsminnet brukes i stedet."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Minnekortet er skrivebeskyttet. Enhetsminnet brukes i stedet."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Minnet er ikke tilgjengelig. Kan ikke lagre innholdet."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Bare internt lagringsminne er tilgjengelig. Sett inn minnekortet hvis du vil "
+"endre innstilling."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "Kan ikke endre innstillingene før forrige element er ferdig behandlet"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"Kan ikke aktivere videomodus før forrige bilde er fullstendig behandlet"
+
+msgid "camera_ib_not_available"
+msgstr "Ikke tilgjengelig"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Operasjonen mislyktes. Lite minne."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Minnet er fullt. Kan ikke lagre innholdet."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Opptak stanset. Ikke nok minne til å fortsette opptaket."
+
+msgid "camera_me_general_settings"
+msgstr "Generelle innstillinger"
+
+msgid "camera_me_geotag"
+msgstr "Geokoding"
+
+msgid "camera_me_restore_settings"
+msgstr "Gjenopprett innstillinger"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Slette filen %s?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Gjenopprette standard kamerainnstillinger?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Ikke nok minne til å åpne kamera"
+
+msgid "camera_ni_operation_failed"
+msgstr "Operasjonen mislyktes"
+
+msgid "camera_ni_operation_processing"
+msgstr "Utfører forrige operasjon"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Lagring mislyktes"
+
+msgid "camera_ti_camera_mode"
+msgstr "Kameramodus"
+
+msgid "camera_ti_camera_settings"
+msgstr "Opptaksinnstillinger"
+
+msgid "camera_ti_exposure"
+msgstr "Juster eksponeringsinnstillinger"
+
+msgid "camera_ti_flash"
+msgstr "Blitsinnstillinger"
+
+msgid "camera_ti_general"
+msgstr "Generelle innstillinger"
+
+msgid "camera_ti_geotag"
+msgstr "Geokoding"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Aktiver geokoding"
+
+msgid "camera_ti_idle"
+msgstr "Kamera"
+
+msgid "camera_ti_iso"
+msgstr "ISO-følsomhet"
+
+msgid "camera_ti_resolution"
+msgstr "Oppløsningsinnstillinger"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Videoopptaksinnstillinger"
+
+msgid "camera_ti_video_mode"
+msgstr "Videomodus"
+
+msgid "camera_ti_white_balance"
+msgstr "Hvitbalanse"
+
+msgid "camera_va_memory_internal"
+msgstr "Intern lagring"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Ikke tidsavbrudd"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Nei"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "I %d sekunder"

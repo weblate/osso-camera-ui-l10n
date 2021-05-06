@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20100208121230\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "camera_ap_camera"
+msgstr "Kamera"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Aina pois käytöstä"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Aina käytössä"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Automaattinen"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Punasilmäisyyden vähennys"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Automaattinen"
+
+msgid "camera_bd_mode_action"
+msgstr "Toiminta"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Automaattinen"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Automaattinen video"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Maisema"
+
+msgid "camera_bd_mode_macro"
+msgstr "Makro"
+
+msgid "camera_bd_mode_night"
+msgstr "Yö"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Yökuvaus"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Muotokuva"
+
+msgid "camera_bd_resolution_high"
+msgstr "Tarkka"
+
+msgid "camera_bd_resolution_low"
+msgstr "Alhainen tarkkuus"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Keskitarkkuus"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Tarkka 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Terävä 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Matala 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Laajakuvatarkkuus"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Valotus"
+
+msgid "camera_bd_settings_iso"
+msgstr "ISO-herkkyys"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Tarkkuus"
+
+msgid "camera_bd_settings_wb"
+msgstr "Valkotasapaino"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Automaattinen"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Pilvinen"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Loisteputkivalo"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Aurinkoinen"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Hehkulamppu"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Hankitaan geotageja"
+
+msgid "camera_fi_creator"
+msgstr "Kuvaajan nimi"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Käytössä oleva muisti"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Näytä otettu kuva"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Näytä otettu video"
+
+msgid "camera_fi_stickytags"
+msgstr "Vakiotagi"
+
+msgid "camera_ia_geotag"
+msgstr ""
+"GPS-koordinaatit ja geotagit voidaan tallentaa kuviin ja videoleikkeisiin, "
+"jos GPS on käytössä. Geotagien hankkimiseen tarvitaan Internet-yhteys ja "
+"siihen liittyy tiedonsiirtoa. Kysy palveluntarjoajalta lisätietoja "
+"tiedonsiirtomaksuista."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Avaa linssin suojus"
+
+msgid "camera_ia_processing"
+msgstr "Käsitellään kuvaa"
+
+msgid "camera_ia_standby"
+msgstr "Valmiustila"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr ""
+"Sisäinen muisti ei ole käytettävissä. Käyttöön otetaan ulkoinen muistikortti."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "Muistikortti saattaa olla viallinen. Käyttöön otetaan laitteen muisti."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "Muistikortti ei ole käytettävissä. Käyttöön otetaan laitteen muisti."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Muistikorttiin on vain lukuoikeudet. Käyttöön otetaan laitteen muisti."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Muisti ei ole käytettävissä. Sisältöä ei voi tallentaa."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Käytettävissä on vain sisäinen muisti. Kun haluat muuttaa asetuksia, aseta "
+"muistikortti."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr ""
+"Asetuksia ei voi muuttaa, ennen kuin edellinen kohde on kokonaan käsitelty"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"Videotilaa ei voi ottaa käyttöön, ennen kuin edellinen kuva on kokonaan "
+"käsitelty"
+
+msgid "camera_ib_not_available"
+msgstr "Ei käytettävissä"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Toiminto epäonnistui. Muisti lähes täynnä."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Muisti on täynnä. Sisältöä ei voi tallentaa."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Tallennus lopetettiin. Muisti ei riitä tallennuksen jatkamiseen."
+
+msgid "camera_me_general_settings"
+msgstr "Yleiset asetukset"
+
+msgid "camera_me_geotag"
+msgstr "Geotagien käyttäminen"
+
+msgid "camera_me_restore_settings"
+msgstr "Palauta asetukset"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Poistetaanko tiedosto %s?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Palautetaanko kameran oletusasetukset?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Muisti ei riitä kameran avaamiseen"
+
+msgid "camera_ni_operation_failed"
+msgstr "Toiminto epäonnistui"
+
+msgid "camera_ni_operation_processing"
+msgstr "Edellinen toiminto kesken"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Tallennus epäonnistui"
+
+msgid "camera_ti_camera_mode"
+msgstr "Kameran tila"
+
+msgid "camera_ti_camera_settings"
+msgstr "Kuvausasetukset"
+
+msgid "camera_ti_exposure"
+msgstr "Säädä valotusasetukset"
+
+msgid "camera_ti_flash"
+msgstr "Salaman asetukset"
+
+msgid "camera_ti_general"
+msgstr "Yleiset asetukset"
+
+msgid "camera_ti_geotag"
+msgstr "Geotagien käyttäminen"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Ota geotagit käyttöön"
+
+msgid "camera_ti_idle"
+msgstr "Kamera"
+
+msgid "camera_ti_iso"
+msgstr "ISO-herkkyys"
+
+msgid "camera_ti_resolution"
+msgstr "Tarkkuuden asetukset"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Videokuvauksen asetukset"
+
+msgid "camera_ti_video_mode"
+msgstr "Videon tila"
+
+msgid "camera_ti_white_balance"
+msgstr "Valkotasapaino"
+
+msgid "camera_va_memory_internal"
+msgstr "Sisäinen muisti"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Ei aikakatkaisua"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Ei"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "%d sekuntia"
