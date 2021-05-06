@@ -71,6 +71,18 @@ msgstr "Baixa resolução"
 msgid "camera_bd_resolution_medium"
 msgstr "Resolução média"
 
+msgid "camera_bd_resolution_video_hd_4x3"
+msgstr "HD 4:3"
+
+msgid "camera_bd_resolution_video_hd_16x9"
+msgstr "HD 16:9"
+
+msgid "camera_bd_resolution_video_dvd_4x3"
+msgstr "DVD 4:3"
+
+msgid "camera_bd_resolution_video_dvd_16x9"
+msgstr "DVD 16:9"
+
 msgid "camera_bd_resolution_video_fine"
 msgstr "Fina 4:3"
 
