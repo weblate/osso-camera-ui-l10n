@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-04-27 17:31+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "camera_ap_camera"
+msgstr "الكاميرا"
+
+msgid "camera_bd_flash_always_off"
+msgstr "دائما معطل"
+
+msgid "camera_bd_flash_always_on"
+msgstr "دائما مفعل"
+
+msgid "camera_bd_flash_automatic"
+msgstr "تلقائي"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "تقليل احمرار العين"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "تلقائي"
+
+msgid "camera_bd_mode_action"
+msgstr "الوضع الرياضي"
+
+msgid "camera_bd_mode_automatic"
+msgstr "تلقائي"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "الفيديو التلقائي"
+
+msgid "camera_bd_mode_landscape"
+msgstr "وضع المناظر الطبيعية"
+
+msgid "camera_bd_mode_macro"
+msgstr "وضع التقريب"
+
+msgid "camera_bd_mode_night"
+msgstr "الوضع الليلي"
+
+msgid "camera_bd_mode_night_video"
+msgstr "فيديو ليلي"
+
+msgid "camera_bd_mode_portrait"
+msgstr "صورة"
+
+msgid "camera_bd_resolution_high"
+msgstr "دقة عالية"
+
+msgid "camera_bd_resolution_low"
+msgstr "دقة منخفضة"
+
+msgid "camera_bd_resolution_medium"
+msgstr "دقه متوسطه"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "جيده 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "مرتفع 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "منخفضة 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "دقة الشاشه العريضة"
+
+msgid "camera_bd_settings_exposure"
+msgstr "التعريض"
+
+msgid "camera_bd_settings_iso"
+msgstr "ISO حساسية"
+
+msgid "camera_bd_settings_resolution"
+msgstr "الدقة"
+
+msgid "camera_bd_settings_wb"
+msgstr "موازنة اللون الأبيض"
+
+msgid "camera_bd_wb_automatic"
+msgstr "تلقائي"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "غائم"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "فلورنس"
+
+msgid "camera_bd_wb_sunny"
+msgstr "مشمس"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "تنغستين"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "تسجيل الموقع "
+
+msgid "camera_fi_creator"
+msgstr "اسم الصورة"
+
+msgid "camera_fi_memory_in_use"
+msgstr "الذاكره المستخدمة"
+
+msgid "camera_fi_show_post_capture"
+msgstr "مشاهدة الصور الملتقطه"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "مشاهدة الفيديو الملتقط"
+
+msgid "camera_ia_geotag"
+msgstr "يمكن تسجيل موقع الصورة الملتقه على الصورة أو الفيديو ، إذ يوفر نظام تحديد المواقع تحديد الموقع الجغرافي للصورة الملتقطه ويتطلب ذالك وجود الأنترنت وينطوى تحت نقل البينات ، أتصل بمزود البينات لديك للحصول على التعليمات حول التكلفة"
+
+msgid "camera_ia_open_lens_cover"
+msgstr "أفتح غطاء العدسة"
+
+msgid "camera_ia_processing"
+msgstr "معالجة الصورة"
+
+msgid "camera_ia_standby"
+msgstr "وضع الأستعداد"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "لايمكن الوصول إلى الذاكره الداخلية سوف يتم أستخدام بطاقة الذاكرة بدلا منها"
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "لايمكن الوصول إلى بطاقة الذاكره سوف يتم أستخدام الذاكره الخاصه بالجهاز بدلا منها"
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "بطاقة الذاكره للقراءه فقط سوف يتم أستخدام ذاكرة الجهاز"
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "غير قادر على الوصول إلى الذاكره ، لن يتم حفظ المحتوى"
+
+msgid "camera_ib_no_memory_card"
+msgstr "الذاكره الداخلية متوفر ، قم بأدخال الذاكر لتغير الأعدادات"
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "غير قادر على تغير الأعدادات حتي أتمام معالجة العنصر"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr "لايمكن تفعيل وضع الفيديو قبل أتمام معالجة الصورة"
+
+msgid "camera_ib_not_available"
+msgstr "غير متوفره"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "العملية فشلت ، الذاكرة منخفضة"
+
+msgid "camera_ib_out_of_storage"
+msgstr "غير قادر على الحفظ ، الذاكرة ممتلئة"
+
+msgid "camera_ib_recording_stopped"
+msgstr "توقف التسجيل ، لايوجد ذاكره متبقية لمواصلة التسجيل"
+
+msgid "camera_me_general_settings"
+msgstr "الأعدادات العامة"
+
+msgid "camera_me_geotag"
+msgstr "تحديد الموقع الجغرافي"
+
+msgid "camera_me_restore_settings"
+msgstr "إستعادة الضبط"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "حذف ملف '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "إستعادة ضبط الكاميرا الأفتراضي"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "لايوجد ذاكره كافية لفتح الكاميرا"
+
+msgid "camera_ni_operation_failed"
+msgstr "العملية فشلت"
+
+msgid "camera_ti_camera_mode"
+msgstr "وضع الكاميرا"
+
+msgid "camera_ti_camera_settings"
+msgstr "إعادادت اللقطة"
+
+msgid "camera_ti_exposure"
+msgstr "ضبط إعدادات العرض"
+
+msgid "camera_ti_flash"
+msgstr "إعدادات الفلاش"
+
+msgid "camera_ti_general"
+msgstr "الأعدادات العامة"
+
+msgid "camera_ti_geotag"
+msgstr "تحديد الموقع الجغرافي"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "تفعيل تحديد الموقع الجغرافي"
+
+msgid "camera_ti_idle"
+msgstr "الكاميرا"
+
+msgid "camera_ti_iso"
+msgstr "ISO حساسية"
+
+msgid "camera_ti_resolution"
+msgstr "ضبط الدقة"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "ضبط الفيديو"
+
+msgid "camera_ti_video_mode"
+msgstr "وضع الفيديو"
+
+msgid "camera_ti_white_balance"
+msgstr "موازنة اللون الأبيض"
+
+msgid "camera_va_memory_internal"
+msgstr "التخزين الداخلى"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "لايوجد وقت-خارج"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "لا"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "عرض %d ثانية"
+
