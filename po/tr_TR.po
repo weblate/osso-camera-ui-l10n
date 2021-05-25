@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2010-05-29 20:58+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "camera_ap_camera"
+msgstr "Kamera"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Daima kapalı"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Daima açık"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Otomatik"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Kırmızı göz azaltma"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Otomatik"
+
+msgid "camera_bd_mode_action"
+msgstr "Hareket"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Otomatik"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Otomatik video"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Manzara"
+
+msgid "camera_bd_mode_macro"
+msgstr "Makro"
+
+msgid "camera_bd_mode_night"
+msgstr "Gece"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Gece video"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Portre"
+
+msgid "camera_bd_resolution_high"
+msgstr "Yüksek çözünürlük"
+
+msgid "camera_bd_resolution_low"
+msgstr "Düşük çözünürlük"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Orta çözünürlük"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "İyi 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Yüksek 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Düşük 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Genişekran çözünürlük"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Pozlama"
+
+msgid "camera_bd_settings_iso"
+msgstr "ISO hassasiyeti"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Çözünürlük"
+
+msgid "camera_bd_settings_wb"
+msgstr "Beyaz dengesi"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Otomatik"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Bulanık"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Floresan"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Parlak"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Akkor lamba"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Geoetiketler alınıyor"
+
+msgid "camera_fi_creator"
+msgstr "Yaratıcı adı"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Hafıza kullanımda"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Çekilen resmi göster"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Çekilen videoyu göster"
+
+msgid "camera_fi_stickytags"
+msgstr "Yapışkan etiketler"
+
+msgid "camera_ia_geotag"
+msgstr "GPS koordinatları ve geoetiketler, GPS mevcutsa resimlere ve videolara kaydedilebilir. "
+"Geoetiketleme Internet bağlantısı gerektirir ve veri aktarımı gerçekleşecektir. " 
+"Şebeke servis sağlayıcınızla görüşerek veri aktarım ücretlerini öğrenin."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Lens kapağını açın"
+
+msgid "camera_ia_processing"
+msgstr "Resim işleniyor"
+
+msgid "camera_ia_standby"
+msgstr "Beklemede"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "Dahili hafızaya ulaşılamıyor. Harici hafıza kartı kullanılacak."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "Hafıza kartı muhtemelen bozuk. Cihaz hafızası kullanılacak."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr ""
+"Hafıza kartına ulaşılamıyor. Cihaz hafızası kullanılacak."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Hafıza kartı salt-okunur. Cihaz hafızası kullanılacak."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Hafızaya ulaşılamıyor. İçerik kaydedilemedi."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Sadece dahili hafıza mevcut. Hafıza kartı takarak ayarı "
+"değiştirin."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "Önceki öğe tamamen işlenmeden ayarlar değiştirilemiyor"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"Önceki resim tamamen işlenmeden Video modu "
+"aktifleştirilemez"
+
+msgid "camera_ib_not_available"
+msgstr "Uygun değil"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "İşlem başarısız. Bellek yetersiz."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Bellek dolu. İçerik kaydedilemiyor."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Kayıt durduruldu. Devam edilecek kadar hafıza kalmadı."
+
+msgid "camera_me_general_settings"
+msgstr "Genel ayarlar"
+
+msgid "camera_me_geotag"
+msgstr "Geoetiketleme"
+
+msgid "camera_me_restore_settings"
+msgstr "Ayarları sıfırla"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Dosyayı sil '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Varsayılan kamera ayarlarını geri yükle?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Kamerayı açacak kadar bellek yok"
+
+msgid "camera_ni_operation_failed"
+msgstr "İşlem başarısız"
+
+msgid "camera_ni_operation_processing"
+msgstr "Önceki işlem devam ediyor"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Medyanın yazılması başarısız oldu"
+
+msgid "camera_ti_camera_mode"
+msgstr "Kamera modu"
+
+msgid "camera_ti_camera_settings"
+msgstr "Yakalama ayarları"
+
+msgid "camera_ti_exposure"
+msgstr "Pozlama ayarlarını yap"
+
+msgid "camera_ti_flash"
+msgstr "Flaş ayarları"
+
+msgid "camera_ti_general"
+msgstr "Genel ayarlar"
+
+msgid "camera_ti_geotag"
+msgstr "Geoetiketleme"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Geoetiketleri etkinleştir"
+
+msgid "camera_ti_idle"
+msgstr "Kamera"
+
+msgid "camera_ti_iso"
+msgstr "ISO hassasiyeti"
+
+msgid "camera_ti_resolution"
+msgstr "Çözünürlük ayarları"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Video yakalama ayarları"
+
+msgid "camera_ti_video_mode"
+msgstr "Video modu"
+
+msgid "camera_ti_white_balance"
+msgstr "Beyaz dengesi"
+
+msgid "camera_va_memory_internal"
+msgstr "Dahili hafıza"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Zamanaşımı yok"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Hayır"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "%d saniye için"
