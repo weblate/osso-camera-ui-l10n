@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-01-31 15:57+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "camera_ap_camera"
+msgstr "Fényképezőgép"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Ki"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Be"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Automatikus"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Vörös szem csökkentés"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Automatikus"
+
+msgid "camera_bd_mode_action"
+msgstr "Akció"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Automatikus"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Automatikus videó"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Tájkép"
+
+msgid "camera_bd_mode_macro"
+msgstr "Macro"
+
+msgid "camera_bd_mode_night"
+msgstr "Éjszaka"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Éjszakai videó"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Portré"
+
+msgid "camera_bd_resolution_high"
+msgstr "Nagy felbontás"
+
+msgid "camera_bd_resolution_low"
+msgstr "Alacsony felbontás"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Közepes felbontás"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Jó 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Magas 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Alacsony 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Szélesvásznú felbontás"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Expozíció"
+
+msgid "camera_bd_settings_iso"
+msgstr "ISO érzékenység"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Felbontás"
+
+msgid "camera_bd_settings_wb"
+msgstr "Fehér egyensúly"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Automatikus"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Felhős"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Fénycső"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Napos"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Lámpa"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Földrajzi adatok lekérése"
+
+msgid "camera_fi_creator"
+msgstr "Készítő neve"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Használt memória"
+
+msgid "camera_fi_show_post_capture"
+msgstr "A rögzített kép megjelenítése"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "A rögzített videó megmutatása"
+
+msgid "camera_ia_geotag"
+msgstr "A készülék minden képre és videóra rögzíti a földrajzi adatokat, ha megtalálja a GPS-koordináta értékeket. A földrajzi adatok lekérése Internet kapcsolatot igényel és adatforgalmat generál. Az adatforgalom költségeiről mobilszolgáltatódtól tájékozódhatsz."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Nyisd ki a lencse védőt"
+
+msgid "camera_ia_processing"
+msgstr "Kép feldolgozása"
+
+msgid "camera_ia_standby"
+msgstr "Készenlét"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "A belső memória nem elérhető. Helyette a külső memóriakártya lesz használatban."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "A memóriakártya nem elérhető. A belső memória lesz használatban."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "A memóriakártya csak olvasható. A belső memória lesz használatban."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "A memória nem elérhető. A tartalom nem menthető."
+
+msgid "camera_ib_no_memory_card"
+msgstr "Csak a belső tároló memória elérhető. Helyezz be egy memóriakártyát a beállítások megváltoztatásához."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "A beállítás nem változtatható meg, míg az előző folyamat teljesen be nem fejeződik"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr "A videó mód nem aktiválható míg az előző kép nincs teljesen feldolgozva."
+
+msgid "camera_ib_not_available"
+msgstr "Nem elérhető"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Műveleti hiba. Kevés a memória."
+
+msgid "camera_ib_out_of_storage"
+msgstr "A memória megtelt. A tartalom nem menthető."
+
+msgid "camera_ib_recording_stopped"
+msgstr "A felvétel lállt. A felvétel folytatásához nincs elég memória."
+
+msgid "camera_me_general_settings"
+msgstr "Általános beálltások"
+
+msgid "camera_me_geotag"
+msgstr "Földrajzi adatok"
+
+msgid "camera_me_restore_settings"
+msgstr "Beállítások visszaállítása"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Törlöd a(z) '%s' fájlt?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Visszaállítod az alapértelmezett fényképezőgép beállításokat?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "A fényképezőgép megnyitásához nincs elég memória"
+
+msgid "camera_ni_operation_failed"
+msgstr "Műveleti hiba"
+
+msgid "camera_ti_camera_mode"
+msgstr "Fényképezőgép mód"
+
+msgid "camera_ti_camera_settings"
+msgstr "Rögzítési beállítások"
+
+msgid "camera_ti_exposure"
+msgstr "Expozíciós beállítások módosítása"
+
+msgid "camera_ti_flash"
+msgstr "Vaku beállítások"
+
+msgid "camera_ti_general"
+msgstr "Általános beállítások"
+
+msgid "camera_ti_geotag"
+msgstr "Földrajzi adatok"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Földrajzi adatok engedélyezése"
+
+msgid "camera_ti_idle"
+msgstr "Fényképezőgép"
+
+msgid "camera_ti_iso"
+msgstr "ISO érzékenység"
+
+msgid "camera_ti_resolution"
+msgstr "Felbontás beállítása"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Videó rögzítési beállítások"
+
+msgid "camera_ti_video_mode"
+msgstr "Videó mód"
+
+msgid "camera_ti_white_balance"
+msgstr "Fehér egyensúly"
+
+msgid "camera_va_memory_internal"
+msgstr "Belső tároló"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Nincs időkorlát"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Nem"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr " %d másodpercre"
+
