@@ -1,0 +1,280 @@
+#
+# Roman Moravčík <roman.moravcik@gmail.com>, 2010.
+# Roman Moravčík <roman.moravcik@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-camera-ui 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010-10-20 11:19+0200\n"
+"Last-Translator:Roman Moravčík <roman.moravcik@gmail.com>\n"
+"Language-Team: sk_SK <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "camera_ap_camera"
+msgstr "Fotoaparát"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Vždy vypnuté"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Vždy zapnuté"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Automaticky"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Redukcia červených očí"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Automaticky"
+
+msgid "camera_bd_mode_action"
+msgstr "Akcia"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Automaticky"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Automatické video"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Krajina"
+
+msgid "camera_bd_mode_macro"
+msgstr "Makro"
+
+msgid "camera_bd_mode_night"
+msgstr "Noc"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Nočné video"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Portrét"
+
+msgid "camera_bd_resolution_high"
+msgstr "Vysoké rozlišenie"
+
+msgid "camera_bd_resolution_low"
+msgstr "Nízke rozlišenie"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Stredné rozlišenie"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Jemné 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Vysoké 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Nízke 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Širokouhlé rozlišenie"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Expozícia"
+
+msgid "camera_bd_settings_iso"
+msgstr "Citlivosť ISO"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Rozlišenie"
+
+msgid "camera_bd_settings_wb"
+msgstr "Vyváženie bielej"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Automaticky"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Zatiahnuté"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Žiarivka"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Slnečno"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Volfrámová žiarovka"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Získavanie zemepisných súradníc"
+
+msgid "camera_fi_creator"
+msgstr "Meno autora"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Použitá pamäť"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Zobraziť zhotovený snímok"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Zobraziť zhotovené video"
+
+msgid "camera_fi_stickytags"
+msgstr "Nalepovacie značky"
+
+msgid "camera_ia_geotag"
+msgstr ""
+"Súradnice a zemepisné súradnice GPS je možné nahrať k obrázkom a "
+"videoklipom, ak je GPS k dispozícií. Priradenie zemepisných súradníc "
+"vyžaduje pripojenie k sieti Internet a zahrnuje prenos dát. Informácie o "
+"poplatkoch za prenos dát získate u svojho poskytovateľa sieťových služieb."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Otvorte kryt objektívu"
+
+msgid "camera_ia_processing"
+msgstr "Spracovávanie obrázku"
+
+msgid "camera_ia_standby"
+msgstr "Pohotovostný režim"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "Interná pamäť nedostupná. Bude použitá externá pamäťová karta."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "Pamäťová karta je možno poškodená. Bude použitá pamäť prístroja."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "Pamäťová karta nedostupná. Bude použitá pamäť prístroja."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Pamäťová karta iba na čítanie. Bude použitá pamäť prístroja."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Pamäť nedostupná. Nemožno uložiť obsah."
+
+msgid "camera_ib_no_memory_card"
+msgstr ""
+"Dostupná len interná pamäť. Vložením pamäťovej karty zmeníte nastavenie."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr ""
+"Nastavenie nemožno zmeniť, pokiaľ nebude predchádzajúca položka úplne "
+"spracovaná"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr ""
+"Režim videa nemožno aktivovať, pokiaľ nebude predchádzajúci obrázok úplne "
+"spracovaný"
+
+msgid "camera_ib_not_available"
+msgstr "Nie je dostupné"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Operácia sa nepodarila. Nedostatok pamäte."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Pamäť plná. Nemožno uložiť obsah."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Nahrávanie zastavené. Nedostatok pamäte pre pokračovanie."
+
+msgid "camera_me_general_settings"
+msgstr "Základné nastavenie"
+
+msgid "camera_me_geotag"
+msgstr "Priradenie GPS súradníc"
+
+msgid "camera_me_restore_settings"
+msgstr "Obnovenie nastavenia"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Odstrániť súbor '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Obnoviť východzie nastavenie fotoaparátu?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Nedostatok pamäte pre spustenie fotoaparátu"
+
+msgid "camera_ni_operation_failed"
+msgstr "Operácia sa nepodarila"
+
+msgid "camera_ni_operation_processing"
+msgstr "Prebieha spracovanie predchádzajúcej operácie"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Uloženie sa nepodarilo"
+
+msgid "camera_ti_camera_mode"
+msgstr "Režim fotoaparátu"
+
+msgid "camera_ti_camera_settings"
+msgstr "Nastavenie snímania"
+
+msgid "camera_ti_exposure"
+msgstr "Upraviť nastavenie expozície"
+
+msgid "camera_ti_flash"
+msgstr "Nastavenie blesku"
+
+msgid "camera_ti_general"
+msgstr "Základné nastavenie"
+
+msgid "camera_ti_geotag"
+msgstr "Priradenie GPS súradníc"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Zapnúť priradenie zemepisných súradníc"
+
+msgid "camera_ti_idle"
+msgstr "Fotoaparát"
+
+msgid "camera_ti_iso"
+msgstr "Citlivosť ISO"
+
+msgid "camera_ti_resolution"
+msgstr "Nastavenie rozlíšenia"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Nastavenie snímania videa"
+
+msgid "camera_ti_video_mode"
+msgstr "Režim videa"
+
+msgid "camera_ti_white_balance"
+msgstr "Vyváženie bielej"
+
+msgid "camera_va_memory_internal"
+msgstr "Interná pamäť"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Po neobmedzenú dobu"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Nie"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "Po dobu %d sekúnd"
+
+msgid "camera_bd_resolution_video_hd_4x3"
+msgstr "HD 4:3"
+
+msgid "camera_bd_resolution_video_hd_16x9"
+msgstr "HD 16:9"
+
+msgid "camera_bd_resolution_video_dvd_4x3"
+msgstr "DVD 4:3"
+
+msgid "camera_bd_resolution_video_dvd_16x9"
+msgstr "DVD 16:9"
