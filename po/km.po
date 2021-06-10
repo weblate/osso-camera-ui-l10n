@@ -1,0 +1,258 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "camera_ap_camera"
+msgstr "ម៉ាស៊ីនថត"
+
+msgid "camera_bd_flash_always_off"
+msgstr "បិទជានិច្ច"
+
+msgid "camera_bd_flash_always_on"
+msgstr "បើកជានិច្ច"
+
+msgid "camera_bd_flash_automatic"
+msgstr "ស្វ័យប្រវត្តិ"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "កាត់បន្ថយភ្នែកក្រហម"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "ស្វ័យប្រវត្តិ"
+
+msgid "camera_bd_mode_action"
+msgstr "សកម្មភាព"
+
+msgid "camera_bd_mode_automatic"
+msgstr "ស្វ័យប្រវត្តិ"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "ភាពយន្ត ស្វ័យប្រវត្តិ"
+
+msgid "camera_bd_mode_landscape"
+msgstr "ទេសភាព"
+
+msgid "camera_bd_mode_macro"
+msgstr "ថតលំអិត"
+
+msgid "camera_bd_mode_night"
+msgstr "យប់"
+
+msgid "camera_bd_mode_night_video"
+msgstr "ថតភាពយន្ត ពេលយប់"
+
+msgid "camera_bd_mode_portrait"
+msgstr "ថតបញ្ឈរ"
+
+msgid "camera_bd_resolution_high"
+msgstr "ភាពម៉ត់ច្រើន"
+
+msgid "camera_bd_resolution_low"
+msgstr "ភាពម៉ត់តិច"
+
+msgid "camera_bd_resolution_medium"
+msgstr "ភាពម៉ត់ល្មម"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "ច្បាស់ល្អ 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "ច្បាស់ 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "ធម្មតា 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "ភាពម៉ត់ទទឹងអេក្រង់វែង "
+
+msgid "camera_bd_settings_exposure"
+msgstr "បំណះពន្លឺ"
+
+msgid "camera_bd_settings_iso"
+msgstr "ISO ភាពឆាប់ជាប់រូប"
+
+msgid "camera_bd_settings_resolution"
+msgstr "ភាពម៉ត់រលោង"
+
+msgid "camera_bd_settings_wb"
+msgstr "តុល្យភាពពណ៌ស"
+
+msgid "camera_bd_wb_automatic"
+msgstr "ស្វ័យប្រវត្តិ"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "ពពកច្រើន"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "អំពូលម៉ែត្រ"
+
+msgid "camera_bd_wb_sunny"
+msgstr "ថ្ងៃច្រើន"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "អំពូលពងមាន់"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "កុំពុងទទួលស្លាកភូមិសាស្រ្ត"
+
+msgid "camera_fi_creator"
+msgstr "ឈ្មោះអ្នកបង្កើត"
+
+msgid "camera_fi_memory_in_use"
+msgstr "ប្រើ អង្គចងចាំ"
+
+msgid "camera_fi_show_post_capture"
+msgstr "បង្ហាញរូបភាពដែលបានថត"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "បង្ហាញភាពយន្តដែលបានថត"
+
+msgid "camera_fi_stickytags"
+msgstr "Sticky tags"
+
+msgid "camera_ia_geotag"
+msgstr "GPS កូអ័រដោណេ និងស្លាកទីតាំងភូមិសាស្រ្ត អាចរក្សាទុកជាមួយ រូបភាព និងភាពយន្តបើសិនណាមានសេវា GPS។ ការដាក់ស្លាកទីតាំងភូមិសាស្រ្ត ទាមទាអោយមានបណ្តាញអ៊ីនធើណិត ហើយទាក់ទងនិងការប្រើប្រាស់ទិន្នន័យ។ សូមទាក់ទងអ្នកផ្តល់សេវារបស់អ្នកសំរាប់ព័ត៌មានលំអិតអំពីតំលៃទិន្នន័យនៃការប្រើ។"
+
+msgid "camera_ia_open_lens_cover"
+msgstr "បើកគំរបកែវម៉ាស៊ីន"
+
+msgid "camera_ia_processing"
+msgstr "ដំណើរការទិន្នន័យរូបភាព"
+
+msgid "camera_ia_standby"
+msgstr "ទុកបំរុង"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr " អង្គចងចាំរបស់ទូរស័ព្ទមិនអាចចូលបាន។  អង្គចងចាំខាងក្រៅប្រើជំនួសវិញ។"
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "Memory card possibly corrupt. Device memory will be used instead."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "អង្គចងចាំមិនអាចចូលបាន។ អង្គចងចាំរបស់ទូរស័ព្ទប្រើជំនួសវិញ។"
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "អង្គចងចាំនេះអាចបានតែមើលទេ។ អង្គចងចាំរបស់ទូរស័ព្ទប្រើជំនួសវិញ។"
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "អង្គចងចាំមិនអាចចូលបាន។ មិនអាចរក្សាទុកមាតិការ។"
+
+msgid "camera_ib_no_memory_card"
+msgstr "មានតែអង្គចងចាំនៅខាងក្នុងទេទំនេរ។ បញ្ចូលអង្គចងចាំដើម្បីប្តូរការកំណត់នេះ។"
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "មិនអាចប្តូរការកំណត់បានទេរហូតដល់របស់មុននេះបានបញ្ចប់"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr "មុខងារភាពយន្តមិនអាចកំណត់បានទេ មុនពេលដែលរូបភាពមុននេះមិនទាន់បានបញ្ចប់ដំណើរ។"
+
+msgid "camera_ib_not_available"
+msgstr "មិនទំនេរ"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "ការប្រតិបត្តិការបានបរាជ័យ។ អង្គចងចាំជិតពេញ។"
+
+msgid "camera_ib_out_of_storage"
+msgstr "អង្គចងចាំពេញ។ មិនអាចរក្សាទុក។"
+
+msgid "camera_ib_recording_stopped"
+msgstr "ការថតត្រូវបានផ្អាក។ មិននៅសល់កន្លែងសំរាប់ផ្ទុក។"
+
+msgid "camera_me_general_settings"
+msgstr "ការកំណត់ទូទៅ"
+
+msgid "camera_me_geotag"
+msgstr "ស្លាកទីតាំងភូមិសាស្រ្ត"
+
+msgid "camera_me_restore_settings"
+msgstr "ធ្វើការកំណត់អោយដូចដើម"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "លុបឯកសារ '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "ធ្វើអោយការកំណត់ម៉ាស៊ីនថតដូចដើម?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "មិនមានសតិគ្រប់គ្រាន់សំរាប់ប្រតិបត្តិម៉ាស៊ីនថត"
+
+msgid "camera_ni_operation_failed"
+msgstr "ការប្រតិបត្តិការបានបរាជ័យ"
+
+msgid "camera_ni_operation_processing"
+msgstr "Previous operation being processed"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Writing of media failed"
+
+msgid "camera_ti_camera_mode"
+msgstr "បែប ម៉ាស៊ីនថត"
+
+msgid "camera_ti_camera_settings"
+msgstr "កំណត់ការថត"
+
+msgid "camera_ti_exposure"
+msgstr "លៃលកការកំណត់បំណះពន្លឺ"
+
+msgid "camera_ti_flash"
+msgstr "កំណត់ ហ្វ្លាស"
+
+msgid "camera_ti_general"
+msgstr "ការកំណត់ទូទៅ"
+
+msgid "camera_ti_geotag"
+msgstr "ស្លាកទីតាំងភូមិសាស្រ្ត"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "អនុវត្តស្លាកទីតាំងភូមិសាស្រ្ត"
+
+msgid "camera_ti_idle"
+msgstr "ម៉ាស៊ីនថត"
+
+msgid "camera_ti_iso"
+msgstr "ISO ភាពឆាប់ជាប់រូប"
+
+msgid "camera_ti_resolution"
+msgstr "កំណត់ភាពម៉ត់រលោង"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "កំណត់ការថតភាពយន្ត"
+
+msgid "camera_ti_video_mode"
+msgstr "បែប ភាពយន្ត"
+
+msgid "camera_ti_white_balance"
+msgstr "តុល្យភាពពណ៌ស"
+
+msgid "camera_va_memory_internal"
+msgstr "រក្សាទុកខាងក្នុង"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "គ្មានការកំណត់ម៉ោង"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "ទេ"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "សំរាប់ %d វិនាទី"
