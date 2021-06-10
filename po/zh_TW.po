@@ -1,0 +1,258 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "camera_ap_camera"
+msgstr "相機"
+
+msgid "camera_bd_flash_always_off"
+msgstr "關閉"
+
+msgid "camera_bd_flash_always_on"
+msgstr "開啟"
+
+msgid "camera_bd_flash_automatic"
+msgstr "自動"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "消除紅眼"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "自動"
+
+msgid "camera_bd_mode_action"
+msgstr "運動"
+
+msgid "camera_bd_mode_automatic"
+msgstr "自動"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "自動拍攝"
+
+msgid "camera_bd_mode_landscape"
+msgstr "風景"
+
+msgid "camera_bd_mode_macro"
+msgstr "特寫"
+
+msgid "camera_bd_mode_night"
+msgstr "夜景"
+
+msgid "camera_bd_mode_night_video"
+msgstr "夜景拍攝"
+
+msgid "camera_bd_mode_portrait"
+msgstr "肖像"
+
+msgid "camera_bd_resolution_high"
+msgstr "高清晰度"
+
+msgid "camera_bd_resolution_low"
+msgstr "低清晰度"
+
+msgid "camera_bd_resolution_medium"
+msgstr "標準清晰度"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "標準 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "高 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "低 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "寬螢幕高畫質"
+
+msgid "camera_bd_settings_exposure"
+msgstr "曝光"
+
+msgid "camera_bd_settings_iso"
+msgstr "感光度"
+
+msgid "camera_bd_settings_resolution"
+msgstr "清晰度"
+
+msgid "camera_bd_settings_wb"
+msgstr "白平衡"
+
+msgid "camera_bd_wb_automatic"
+msgstr "自動"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "陰天"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "螢光"
+
+msgid "camera_bd_wb_sunny"
+msgstr "晴天"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "白熾光"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "擷取地理標籤"
+
+msgid "camera_fi_creator"
+msgstr "拍攝者"
+
+msgid "camera_fi_memory_in_use"
+msgstr "記憶體使用中"
+
+msgid "camera_fi_show_post_capture"
+msgstr "顯示已拍攝照片"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "顯示已拍攝影片"
+
+msgid "camera_fi_stickytags"
+msgstr "Sticky tags"
+
+msgid "camera_ia_geotag"
+msgstr "如GPS可用，地理標籤座標資訊可被加入到照片和影片.地理標籤標記功能需要網路連線並會有費用產生. 請與您的服務供應商聯絡,以取得網路數據傳輸收費等相關訊息."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "開啟鏡頭蓋"
+
+msgid "camera_ia_processing"
+msgstr "照片處理中"
+
+msgid "camera_ia_standby"
+msgstr "待機"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "內部記憶體無法存取.將使用外部記憶卡."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "外接記憶卡可能損壞, 將使用裝置記憶體."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "無法讀取記憶卡,將使用手機記憶體."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "記憶卡屬性為唯讀.將使用手機記憶體."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "記憶體無法存取,無法儲存內容."
+
+msgid "camera_ib_no_memory_card"
+msgstr "只有手機記憶體,插入記憶卡以更改此項設定."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "系統正在處理上一個項目中，無法更改設定"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr "照片正在處理中,無法啟用影片模式."
+
+msgid "camera_ib_not_available"
+msgstr "無法使用"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "操作失敗.記憶體不足."
+
+msgid "camera_ib_out_of_storage"
+msgstr "記憶體已滿. 無法儲存內容."
+
+msgid "camera_ib_recording_stopped"
+msgstr "錄音停止.沒有足夠的記憶體以繼續錄音."
+
+msgid "camera_me_general_settings"
+msgstr "一般設定"
+
+msgid "camera_me_geotag"
+msgstr "顯示地理標籤"
+
+msgid "camera_me_restore_settings"
+msgstr "還原設定"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "刪除檔案 '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "還原相機預設設定?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "記憶體不足,無法開啟相機.請關閉一些應用程式再試."
+
+msgid "camera_ni_operation_failed"
+msgstr "操作失敗"
+
+msgid "camera_ni_operation_processing"
+msgstr "前項操作已處理完成"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "寫入媒體失敗"
+
+msgid "camera_ti_camera_mode"
+msgstr "場景模式"
+
+msgid "camera_ti_camera_settings"
+msgstr "進階設定"
+
+msgid "camera_ti_exposure"
+msgstr "曝光補償"
+
+msgid "camera_ti_flash"
+msgstr "閃光燈設定"
+
+msgid "camera_ti_general"
+msgstr "一般設定"
+
+msgid "camera_ti_geotag"
+msgstr "標記位置"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "啟用地理標籤"
+
+msgid "camera_ti_idle"
+msgstr "相機"
+
+msgid "camera_ti_iso"
+msgstr "感光度"
+
+msgid "camera_ti_resolution"
+msgstr "清晰度設定"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "影片設定"
+
+msgid "camera_ti_video_mode"
+msgstr "影片模式"
+
+msgid "camera_ti_white_balance"
+msgstr "白平衡"
+
+msgid "camera_va_memory_internal"
+msgstr "手機記憶體"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "無逾時"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "沒有"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "待 %d 秒"
