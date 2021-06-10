@@ -1,0 +1,258 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2012-05-26 06:18+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "camera_ap_camera"
+msgstr "Камера"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Заўсёды ўключана"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Заўсёды выключана"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Аўтаматычна"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Заглушэнне чырвоных вачэй"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Аўтаматычна"
+
+msgid "camera_bd_mode_action"
+msgstr "Дзеянне"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Аўтаматычна"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Відэаздымка"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Краявід"
+
+msgid "camera_bd_mode_macro"
+msgstr "Макра"
+
+msgid "camera_bd_mode_night"
+msgstr "Ноч"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Начная відэаздымка"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Партрэт"
+
+msgid "camera_bd_resolution_high"
+msgstr "Высокая разроснаць"
+
+msgid "camera_bd_resolution_low"
+msgstr "Нізкая разроснаць"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Сярэдняя разроснасць"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Добрая якасць 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Высокая якасць 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Нізкая якасць 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Шырокаэкранны рэжым"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Экспазіцыя"
+
+msgid "camera_bd_settings_iso"
+msgstr "Адчувальнасць ISO"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Разроснасць"
+
+msgid "camera_bd_settings_wb"
+msgstr "Баланс белага"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Аўтаматычна"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Воблачна"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Флюарэсцентная лямпа"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Сонечна"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Лямпа напальвання"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Геатэггінг"
+
+msgid "camera_fi_creator"
+msgstr "Імя аўтара"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Выкарыстоўваная памяць"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Паказваць знятае фота"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Паказваць знятае відэа"
+
+msgid "camera_fi_stickytags"
+msgstr "Ліпкія тэгі"
+
+msgid "camera_ia_geotag"
+msgstr "Пры наяўнасці сігнала GPS, да кожнай выявы ці відэакліпа можна запісаць геатэгі і кардынаты GPS. Для геатэггінгу неабходна сеціўнае злучэнне для перадачы дадзеных. Звесткі аб кошце перадачы дадзеных можна атрымаць у пастаўшчыка сеткавыг паслуг."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Адчыніце вечка аб'ектыва"
+
+msgid "camera_ia_processing"
+msgstr "Апрацоўка выявы"
+
+msgid "camera_ia_standby"
+msgstr "Гатовы"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "Унутраная памяць недаступная. Будзе выкарыстана памяць знешняй карты памяці."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "Карта памяці магчыма пашкоджаная. Будзе выкарыстана памяць дэвайса."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "Карта памяці недаступная. Будзе выкарыстана памяць дэвайса."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Карта памяці толькі для чытання. Будзе выкарыстана памяць дэвайса."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Памяць недаступная. Немагчыма захаваць змест."
+
+msgid "camera_ib_no_memory_card"
+msgstr "Толькі ўнутраная памяць даступная. Устаўце карту памяці, каб змяніць гэтую наладу."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "Немагчыпа змяніць налады пакуль папярэдні элемент будзе цалкам апрацаваны"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr "Відэарэжым не можа быць актываваны, пакуль папярэдняя выява будзе цалкам апрацаваная"
+
+msgid "camera_ib_not_available"
+msgstr "Недаступны"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Аперацыя не ўдалася. Не хапае памяці."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Памяць перапоўненая. Немагчыма захаваць змест."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Запіс спынены. Не хапае памяці для працягвання запісу."
+
+msgid "camera_me_general_settings"
+msgstr "Галоўныя налады"
+
+msgid "camera_me_geotag"
+msgstr "Геатэггінг"
+
+msgid "camera_me_restore_settings"
+msgstr "Узнавіць налады"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Выдаліць файл '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "Узнаваіць стандартныя налады камеры?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Не хапае памяці для адчынення камеры"
+
+msgid "camera_ni_operation_failed"
+msgstr "Аперацыя не ўдалася"
+
+msgid "camera_ni_operation_processing"
+msgstr "Папярэдняя аперацыя яшчэ выконваецца"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Не атрымалася захаваць медыя"
+
+msgid "camera_ti_camera_mode"
+msgstr "Рэжым камеры"
+
+msgid "camera_ti_camera_settings"
+msgstr "Налады здымання"
+
+msgid "camera_ti_exposure"
+msgstr "Наладзіць параметры экспазіцыі"
+
+msgid "camera_ti_flash"
+msgstr "Налады ўспышкі"
+
+msgid "camera_ti_general"
+msgstr "Галоўныя налады"
+
+msgid "camera_ti_geotag"
+msgstr "Геатэггінг"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Уключыць геатэггінг"
+
+msgid "camera_ti_idle"
+msgstr "Камера"
+
+msgid "camera_ti_iso"
+msgstr "Адчувальнасць ISO"
+
+msgid "camera_ti_resolution"
+msgstr "Налады разроснасці"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Налады відэаздымання"
+
+msgid "camera_ti_video_mode"
+msgstr "Рэжым відэа"
+
+msgid "camera_ti_white_balance"
+msgstr "Баланс белага"
+
+msgid "camera_va_memory_internal"
+msgstr "Унутраная памяць"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Ручное выдаленне"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Не"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "На працягу %d секунд"
