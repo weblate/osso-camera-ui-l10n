@@ -1,0 +1,259 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2011-11-06 14:56+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "camera_ap_camera"
+msgstr "دوربین"
+
+msgid "camera_bd_flash_always_off"
+msgstr "همیشه خاموش"
+
+msgid "camera_bd_flash_always_on"
+msgstr "همیشه روشن"
+
+msgid "camera_bd_flash_automatic"
+msgstr "خودکار"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "کاهش قرمزی چشم"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "خودکار"
+
+msgid "camera_bd_mode_action"
+msgstr "اقدام"
+
+msgid "camera_bd_mode_automatic"
+msgstr "خودکار"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "ویدیو به صورت خودکار"
+
+msgid "camera_bd_mode_landscape"
+msgstr "افقی"
+
+msgid "camera_bd_mode_macro"
+msgstr "ماکرو"
+
+msgid "camera_bd_mode_night"
+msgstr "شب"
+
+msgid "camera_bd_mode_night_video"
+msgstr "حالت شب"
+
+msgid "camera_bd_mode_portrait"
+msgstr "پرتره"
+
+msgid "camera_bd_resolution_high"
+msgstr "رزولوشن بالا"
+
+msgid "camera_bd_resolution_low"
+msgstr "رزولوشن پایین"
+
+msgid "camera_bd_resolution_medium"
+msgstr "رزولوشن متوسط"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "خوب 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "16:9 بالا"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "کم 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr " صفحه عریض"
+
+msgid "camera_bd_settings_exposure"
+msgstr "نوردهی"
+
+msgid "camera_bd_settings_iso"
+msgstr "حساسیت ایزو"
+
+msgid "camera_bd_settings_resolution"
+msgstr "رزولوشن"
+
+msgid "camera_bd_settings_wb"
+msgstr "تعادل رنگ سفید"
+
+msgid "camera_bd_wb_automatic"
+msgstr "خودکار"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "ابری"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "چراغ سفید"
+
+msgid "camera_bd_wb_sunny"
+msgstr "افتابی"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "چراغ زرد"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "کسب برچسب جغرافیایی"
+
+msgid "camera_fi_creator"
+msgstr "نام خالق"
+
+msgid "camera_fi_memory_in_use"
+msgstr "حافظه‌ی در حال استفاده"
+
+msgid "camera_fi_show_post_capture"
+msgstr "نمایش تصویر ثبت شده"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "نمایش ویدیوی ثبت شده"
+
+msgid "camera_fi_stickytags"
+msgstr "تگ های مهم"
+
+msgid "camera_ia_geotag"
+msgstr "جی پی اس هماهنگ سازی شده و برچسب جغرافیایی اگر فعال باشد ، می‌تواند در  تصاویر و ویدئو کلیپ ها ضبط شود.\nبرچسب گذاری جغرافیایی ، نیاز به  اتصال به اینترنت و انتقال داده دارد.\nبرای اطلاعات بیشتر راجع به انتقال داده با فراهم کننده‌ی سرویس شبکه‌ی خود تماس حاصل نمائید"
+
+msgid "camera_ia_open_lens_cover"
+msgstr "پوشش لنز را باز کنید"
+
+msgid "camera_ia_processing"
+msgstr "پردازش تصویر"
+
+msgid "camera_ia_standby"
+msgstr "آماده باش"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "حافظه‌ی داخلی در دسترس نیست.به جای آن از حافظه‌ی خارجی استفاده می‌شود."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "کارت حافظه احتمالا خراب است.به جای آن از حافظه‌ی داخلی استفاده میشود."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "کارت حافظه قابل دسترسی نیست. به جای آن از حافظه‌ی دستگاه استفاه می‌شود."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "کارت حافظه فقط خواندنی است. به جای آن از حافظه‌ی دستگاه استفاده می‌شود."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "حافظه قابل دسترسی نیست. قادر به ذخیره‌ی محتویات نیست.."
+
+msgid "camera_ib_no_memory_card"
+msgstr "فقط حافظه‌ی دستگاه در دسترس است.برای تغییر این تنظیمات حافظه‌ی خارجی را وارد کنید."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "تا زمانی که آیتم قبلی پردازش نشود ، تغییر تنظیمات امکان پذیر نیست."
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr "تا زمانی که عکس قبلی پردازش نشود  ،حالت ویدیو را نمی‌توان فعال کرد."
+
+msgid "camera_ib_not_available"
+msgstr "در دسترس نیست"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "عملیات انجام نشد. حافظه کم است."
+
+msgid "camera_ib_out_of_storage"
+msgstr "حافظه پر است.ذخیره سازی محتویات امکان پذیر نیست."
+
+msgid "camera_ib_recording_stopped"
+msgstr "ضبط کردن متوقف شد.حافظه‌ای برای ادامه‌ی ضبط نیست"
+
+msgid "camera_me_general_settings"
+msgstr "تنظیمات عمومی"
+
+msgid "camera_me_geotag"
+msgstr " برچسب جغرافیایی"
+
+msgid "camera_me_restore_settings"
+msgstr "بازگرداندن تنظیمات"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "پاک کردن فایل '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "بازگرداندن تنظیمات پیش فرض دوربین؟"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "حافظه کافی برای باز کردن دوربین نیست"
+
+msgid "camera_ni_operation_failed"
+msgstr "عملیات انجام نشد"
+
+msgid "camera_ni_operation_processing"
+msgstr "عملیات قبلی در حال پردازش است "
+
+msgid "camera_ni_operation_writingfail"
+msgstr "ذخیره‌سازی ناموفق بود"
+
+msgid "camera_ti_camera_mode"
+msgstr "حالت دوربین"
+
+msgid "camera_ti_camera_settings"
+msgstr "تنظیمات عکس"
+
+msgid "camera_ti_exposure"
+msgstr "تنظیم تنظیمات نوردهی"
+
+msgid "camera_ti_flash"
+msgstr "تنظیمات فلش"
+
+msgid "camera_ti_general"
+msgstr "تنظیمات عمومی"
+
+msgid "camera_ti_geotag"
+msgstr " برچسب جغرافیایی"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "فعال کردن برچسب جغرافیایی"
+
+msgid "camera_ti_idle"
+msgstr "دوربین"
+
+msgid "camera_ti_iso"
+msgstr "حساسیت ایزو"
+
+msgid "camera_ti_resolution"
+msgstr "تنظیمات رزولوشن تصویر"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "تنظیمات ضبط ویدئو"
+
+msgid "camera_ti_video_mode"
+msgstr "حالت ویدئو"
+
+msgid "camera_ti_white_balance"
+msgstr "تعادل رنگ سفید"
+
+msgid "camera_va_memory_internal"
+msgstr "حافظه‌ی داخلی"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "بدون اشکال"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "خیر"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "برای %d ثانیه"
