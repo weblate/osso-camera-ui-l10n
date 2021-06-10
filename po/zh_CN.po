@@ -1,0 +1,258 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "camera_ap_camera"
+msgstr "照相摄像"
+
+msgid "camera_bd_flash_always_off"
+msgstr "关"
+
+msgid "camera_bd_flash_always_on"
+msgstr "开"
+
+msgid "camera_bd_flash_automatic"
+msgstr "自动"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "消除红眼"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "自动"
+
+msgid "camera_bd_mode_action"
+msgstr "运动"
+
+msgid "camera_bd_mode_automatic"
+msgstr "自动"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "自动"
+
+msgid "camera_bd_mode_landscape"
+msgstr "风景"
+
+msgid "camera_bd_mode_macro"
+msgstr "微距"
+
+msgid "camera_bd_mode_night"
+msgstr "夜间模式"
+
+msgid "camera_bd_mode_night_video"
+msgstr "夜间拍摄"
+
+msgid "camera_bd_mode_portrait"
+msgstr "肖像"
+
+msgid "camera_bd_resolution_high"
+msgstr "高分辨率"
+
+msgid "camera_bd_resolution_low"
+msgstr "低分辨率"
+
+msgid "camera_bd_resolution_medium"
+msgstr "中分辨率"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "精细 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "最佳 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "一般 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "宽屏分辨率"
+
+msgid "camera_bd_settings_exposure"
+msgstr "曝光"
+
+msgid "camera_bd_settings_iso"
+msgstr "感光度"
+
+msgid "camera_bd_settings_resolution"
+msgstr "图像质量"
+
+msgid "camera_bd_settings_wb"
+msgstr "白平衡"
+
+msgid "camera_bd_wb_automatic"
+msgstr "自动"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "阴天"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "荧光灯"
+
+msgid "camera_bd_wb_sunny"
+msgstr "晴天"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "白炽灯"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "显示GPS信息"
+
+msgid "camera_fi_creator"
+msgstr "拍摄者"
+
+msgid "camera_fi_memory_in_use"
+msgstr "当前存储"
+
+msgid "camera_fi_show_post_capture"
+msgstr "显示拍摄的图像"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "显示拍摄的视频"
+
+msgid "camera_fi_stickytags"
+msgstr "增加标签"
+
+msgid "camera_ia_geotag"
+msgstr "如GPS可用,则会将位置信息储存到图像或视频文件中.记录位置信息可能会连接网络并产生数据流量.数据传输收费相关信息请咨询您的网络运营商."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "打开镜头盖"
+
+msgid "camera_ia_processing"
+msgstr "正在处理图像"
+
+msgid "camera_ia_standby"
+msgstr "待机"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "手机存储无法访问,将使用存储卡."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "外接存储卡可能损坏, 将使用设备存储."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "存储卡无法访问,将使用手机存储."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "存储卡属性为只读,将使用手机存储."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "存储无法访问,无法保存内容."
+
+msgid "camera_ib_no_memory_card"
+msgstr "只有手机存储,插入存储卡才能更改此项设置."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "系统正在处理中,无法更改设置"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr "正在处理图像,暂时不能切换到视频模式."
+
+msgid "camera_ib_not_available"
+msgstr "不可用"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "操作失败,存储不足."
+
+msgid "camera_ib_out_of_storage"
+msgstr "存储已满,无法保存内容."
+
+msgid "camera_ib_recording_stopped"
+msgstr "录音停止.已无剩余存储空间来继续录音."
+
+msgid "camera_me_general_settings"
+msgstr "一般设置"
+
+msgid "camera_me_geotag"
+msgstr "显示GPS信息"
+
+msgid "camera_me_restore_settings"
+msgstr "默认设置"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "删除文件 '%s'?"
+
+msgid "camera_nc_restore_settings"
+msgstr "还原相机默认设置?"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "内存不足,无法打开相机."
+
+msgid "camera_ni_operation_failed"
+msgstr "操作失败"
+
+msgid "camera_ni_operation_processing"
+msgstr "前项操作已处理完成"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "写入媒体失败"
+
+msgid "camera_ti_camera_mode"
+msgstr "相机模式"
+
+msgid "camera_ti_camera_settings"
+msgstr "照相设置"
+
+msgid "camera_ti_exposure"
+msgstr "曝光"
+
+msgid "camera_ti_flash"
+msgstr "闪光灯"
+
+msgid "camera_ti_general"
+msgstr "一般设置"
+
+msgid "camera_ti_geotag"
+msgstr "GPS信息"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "启用GPS信息"
+
+msgid "camera_ti_idle"
+msgstr "照相摄像"
+
+msgid "camera_ti_iso"
+msgstr "感光度"
+
+msgid "camera_ti_resolution"
+msgstr "图像质量"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "视频设置"
+
+msgid "camera_ti_video_mode"
+msgstr "视频模式"
+
+msgid "camera_ti_white_balance"
+msgstr "白平衡"
+
+msgid "camera_va_memory_internal"
+msgstr "内部存储"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "无延时"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "不显示"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "%d秒"
