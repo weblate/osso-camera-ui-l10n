@@ -1,0 +1,258 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "camera_ap_camera"
+msgstr "Κάμερα"
+
+msgid "camera_bd_flash_always_off"
+msgstr "Πάντα απενεργοποιημένο"
+
+msgid "camera_bd_flash_always_on"
+msgstr "Πάντα ενεργοποιημένο"
+
+msgid "camera_bd_flash_automatic"
+msgstr "Αυτόματο"
+
+msgid "camera_bd_flash_red_eye"
+msgstr "Μείωση φαινομένου\nκόκκινων ματιών"
+
+msgid "camera_bd_iso_100"
+msgstr "100"
+
+msgid "camera_bd_iso_200"
+msgstr "200"
+
+msgid "camera_bd_iso_400"
+msgstr "400"
+
+msgid "camera_bd_iso_automatic"
+msgstr "Αυτόματο"
+
+msgid "camera_bd_mode_action"
+msgstr "Δράση"
+
+msgid "camera_bd_mode_automatic"
+msgstr "Αυτόματο"
+
+msgid "camera_bd_mode_automatic_video"
+msgstr "Αυτόματο βίντεο"
+
+msgid "camera_bd_mode_landscape"
+msgstr "Τοπίο"
+
+msgid "camera_bd_mode_macro"
+msgstr "Μακροσκοπικά"
+
+msgid "camera_bd_mode_night"
+msgstr "Νύχτα"
+
+msgid "camera_bd_mode_night_video"
+msgstr "Νυχτερινό βίντεο"
+
+msgid "camera_bd_mode_portrait"
+msgstr "Πορτρέτο"
+
+msgid "camera_bd_resolution_high"
+msgstr "Υψηλή ανάλυση"
+
+msgid "camera_bd_resolution_low"
+msgstr "Χαμηλή ανάλυση"
+
+msgid "camera_bd_resolution_medium"
+msgstr "Μεσαία ανάλυση"
+
+msgid "camera_bd_resolution_video_fine"
+msgstr "Καλή 4:3"
+
+msgid "camera_bd_resolution_video_high"
+msgstr "Υψηλή 16:9"
+
+msgid "camera_bd_resolution_video_low"
+msgstr "Χαμηλή 4:3"
+
+msgid "camera_bd_resolution_wide"
+msgstr "Ανάλυση ευρείας οθόνης"
+
+msgid "camera_bd_settings_exposure"
+msgstr "Έκθεση"
+
+msgid "camera_bd_settings_iso"
+msgstr "Ευαισθησία ISO"
+
+msgid "camera_bd_settings_resolution"
+msgstr "Ανάλυση"
+
+msgid "camera_bd_settings_wb"
+msgstr "Ισορροπία λευκού"
+
+msgid "camera_bd_wb_automatic"
+msgstr "Αυτόματο"
+
+msgid "camera_bd_wb_cloudy"
+msgstr "Συννεφιά"
+
+msgid "camera_bd_wb_fluorescent"
+msgstr "Λάμπα φθορισμού"
+
+msgid "camera_bd_wb_sunny"
+msgstr "Φως ημέρας"
+
+msgid "camera_bd_wb_tungsten"
+msgstr "Λάμπα πυρακτώσεως"
+
+msgid "camera_fi_acquiring_geotags"
+msgstr "Απόκτηση geotags"
+
+msgid "camera_fi_creator"
+msgstr "Όνομα δημιουργού"
+
+msgid "camera_fi_memory_in_use"
+msgstr "Μνήμη σε χρήση"
+
+msgid "camera_fi_show_post_capture"
+msgstr "Προβολή εικόνας"
+
+msgid "camera_fi_show_post_capture_video"
+msgstr "Προβολή βίντεο"
+
+msgid "camera_fi_stickytags"
+msgstr "Διατηρητέες ετικέτες"
+
+msgid "camera_ia_geotag"
+msgstr "Οι συντεταγμένες του GPS και τα geotags μπορούν να καταγραφούν σε εικόνες και βίντεο κλιπ αν το GPS είναι διαθέσιμο. Το geotagging απαιτεί μια σύνδεση στο διαδίκτυο για την διαβίβαση των δεδομένων. Επικοινωνήστε με το φορέα παροχής υπηρεσιών σας για πληροφορίες σχετικά με τις χρεώσεις μετάδοσης δεδομένων."
+
+msgid "camera_ia_open_lens_cover"
+msgstr "Ανοίξτε το κάλυμμα του φακού"
+
+msgid "camera_ia_processing"
+msgstr "Επεξεργασία εικόνας"
+
+msgid "camera_ia_standby"
+msgstr "Αναμονή"
+
+msgid "camera_ib_internal_memory_not_accessible"
+msgstr "Η εσωτερική μνήμη δεν είναι προσβάσιμη. Θα πρέπει να χρησιμοποιηθεί εξωτερική κάρτα μνήμης."
+
+msgid "camera_ib_memory_card_corrupt"
+msgstr "Κάρτα μνήμης πιθανώς κατεστραμμένη. Θα χρησιμοποιηθεί η μνήμη της συσκευής."
+
+msgid "camera_ib_memory_card_not_accessible"
+msgstr "Η κάρτα μνήμης δεν είναι προσβάσιμη. Θα πρέπει να χρησιμοποιηθεί η μνήμη της συσκευής."
+
+msgid "camera_ib_memory_card_read_only"
+msgstr "Η κάρτα μνήμης είναι μόνο για ανάγνωση. Θα πρέπει να χρησιμοποιηθεί η μνήμη της συσκευής."
+
+msgid "camera_ib_no_memory_accessible"
+msgstr "Η μνήμη δεν είναι προσβάσιμη. Αδύνατη η αποθήκευση του περιεχομένου."
+
+msgid "camera_ib_no_memory_card"
+msgstr "Μόνο εσωτερική μνήμη αποθήκευσης είναι διαθέσιμη. Τοποθετήστε την κάρτα μνήμης για να αλλάξετε αυτή τη ρύθμιση."
+
+msgid "camera_ib_not_able_to_change_settings"
+msgstr "Αδύνατη η αλλαγή των ρυθμίσεων μέχρι το προηγούμενο στοιχείο να υποβληθεί σε πλήρη επεξεργασία"
+
+msgid "camera_ib_not_able_to_change_to_video_mode"
+msgstr "Η λειτουργία βιντεοκάμερας δεν μπορεί να ενεργοποιηθεί πριν η προηγούμενη εικόνα δεν υποβληθεί σε πλήρη επεξεργασία"
+
+msgid "camera_ib_not_available"
+msgstr "Δεν είναι διαθέσιμο"
+
+msgid "camera_ib_not_enough_memory"
+msgstr "Η διαδικασία απέτυχε. Μνήμη σχεδόν πλήρης."
+
+msgid "camera_ib_out_of_storage"
+msgstr "Μνήμη πλήρης. Αδύνατη η αποθήκευση του περιεχομένου."
+
+msgid "camera_ib_recording_stopped"
+msgstr "Η εγγραφή σταμάτησε. Δεν υπάρχει ελευθερος χώρος στη μνήμη για να συνεχίσετε την εγγραφή."
+
+msgid "camera_me_general_settings"
+msgstr "Γενικές ρυθμίσεις"
+
+msgid "camera_me_geotag"
+msgstr "Geotagging"
+
+msgid "camera_me_restore_settings"
+msgstr "Επαναφορά ρυθμίσεων"
+
+msgid "camera_nc_delete_imageclip"
+msgstr "Διαγραφή του αρχείου '%s';"
+
+msgid "camera_nc_restore_settings"
+msgstr "Επαναφορά προεπιλεγμένων ρυθμίσεων της κάμερας;"
+
+msgid "camera_ni_not_enough_memory_to_open"
+msgstr "Δεν υπάρχει αρκετή μνήμη για να ανοίξει η κάμερα"
+
+msgid "camera_ni_operation_failed"
+msgstr "Η διαδικασία απέτυχε"
+
+msgid "camera_ni_operation_processing"
+msgstr "Γίνεται επεξεργασία προηγούμενης ενέργειας"
+
+msgid "camera_ni_operation_writingfail"
+msgstr "Η εγγραφή στα μέσα απέτυχε."
+
+msgid "camera_ti_camera_mode"
+msgstr "Λειτουργία κάμερας"
+
+msgid "camera_ti_camera_settings"
+msgstr "Ρυθμίσεις λήψεως"
+
+msgid "camera_ti_exposure"
+msgstr "Προσαρμογή των ρυθμίσεων έκθεσης"
+
+msgid "camera_ti_flash"
+msgstr "Ρυθμίσεις φλας"
+
+msgid "camera_ti_general"
+msgstr "Γενικές ρυθμίσεις"
+
+msgid "camera_ti_geotag"
+msgstr "Geotagging"
+
+msgid "camera_ti_geotag_checkbox"
+msgstr "Ενεργοποίηση geotagging"
+
+msgid "camera_ti_idle"
+msgstr "Κάμερα"
+
+msgid "camera_ti_iso"
+msgstr "Ευαισθησία ISO"
+
+msgid "camera_ti_resolution"
+msgstr "Ρυθμίσεις ανάλυσης"
+
+msgid "camera_ti_video_capture_settings"
+msgstr "Ρυθμίσεις λήψεως βίντεο"
+
+msgid "camera_ti_video_mode"
+msgstr "Λειτουργία βιντεοκάμερας"
+
+msgid "camera_ti_white_balance"
+msgstr "Ισορροπία λευκού"
+
+msgid "camera_va_memory_internal"
+msgstr "Εσωτερική μνήμη"
+
+msgid "camera_va_show_post_capture_manual"
+msgstr "Χωρίς διακοπή"
+
+msgid "camera_va_show_post_capture_no"
+msgstr "Όχι"
+
+msgid "camera_va_show_post_capture_seconds"
+msgstr "Για %d δευτερόλεπτα"
