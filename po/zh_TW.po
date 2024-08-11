@@ -3,16 +3,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
+"issues/list\n"
 "POT-Creation-Date: 2009.10.13 12:03+0300\n"
-"PO-Revision-Date: 2010-11-30 11:39+0000\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2024-06-01 11:09+0000\n"
+"Last-Translator: hugoalh <hugoalh@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
+"maemo-leste/osso-camera-ui-l10n/zh_Hant/>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_TW\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 msgid "camera_ap_camera"
 msgstr "相機"
@@ -129,7 +132,7 @@ msgid "camera_fi_show_post_capture_video"
 msgstr "顯示已拍攝影片"
 
 msgid "camera_fi_stickytags"
-msgstr "Sticky tags"
+msgstr "黏性標籤"
 
 msgid "camera_ia_geotag"
 msgstr "如GPS可用，地理標籤座標資訊可被加入到照片和影片.地理標籤標記功能需要網路連線並會有費用產生. 請與您的服務供應商聯絡,以取得網路數據傳輸收費等相關訊息."
@@ -165,7 +168,7 @@ msgid "camera_ib_not_able_to_change_settings"
 msgstr "系統正在處理上一個項目中，無法更改設定"
 
 msgid "camera_ib_not_able_to_change_to_video_mode"
-msgstr "照片正在處理中,無法啟用影片模式."
+msgstr "在完全處理之前的影像之前無法啟動影片模式"
 
 msgid "camera_ib_not_available"
 msgstr "無法使用"
@@ -195,7 +198,7 @@ msgid "camera_nc_restore_settings"
 msgstr "還原相機預設設定?"
 
 msgid "camera_ni_not_enough_memory_to_open"
-msgstr "記憶體不足,無法開啟相機.請關閉一些應用程式再試."
+msgstr "記憶體不足，無法開啟相機"
 
 msgid "camera_ni_operation_failed"
 msgstr "操作失敗"
@@ -256,3 +259,15 @@ msgstr "沒有"
 
 msgid "camera_va_show_post_capture_seconds"
 msgstr "待 %d 秒"
+
+msgid "camera_bd_resolution_video_hd_4x3"
+msgstr "HD 4:3"
+
+msgid "camera_bd_resolution_video_hd_16x9"
+msgstr "HD 16:9"
+
+msgid "camera_bd_resolution_video_dvd_16x9"
+msgstr "DVD 16:9"
+
+msgid "camera_bd_resolution_video_dvd_4x3"
+msgstr "DVD 4:3"

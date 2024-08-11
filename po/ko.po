@@ -3,16 +3,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
+"issues/list\n"
 "POT-Creation-Date: 2009.10.13 12:03+0300\n"
-"PO-Revision-Date: 2010-11-30 11:39+0000\n"
-"Last-Translator: \n"
-"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"PO-Revision-Date: 2023-04-28 04:48+0000\n"
+"Last-Translator: simmon <simmon@nplob.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-camera-ui-l10n/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 msgid "camera_ap_camera"
 msgstr "카메라"
@@ -147,7 +150,7 @@ msgid "camera_ib_internal_memory_not_accessible"
 msgstr "내부 저장소에 접근할 수 없습니다. 외부 메모리 카드를 대신 사용합니다."
 
 msgid "camera_ib_memory_card_corrupt"
-msgstr "Memory card possibly corrupt. Device memory will be used instead."
+msgstr "메모리 카드가 손상되었을 수 있습니다. 장치 메모리가 대신 사용됩니다."
 
 msgid "camera_ib_memory_card_not_accessible"
 msgstr "메모리 카드에 접근할 수 없습니다. 장치 저장소를 대신 사용합니다."
@@ -165,7 +168,7 @@ msgid "camera_ib_not_able_to_change_settings"
 msgstr "사진 저장이 완료될 때까지 설정을 변경할 수 없습니다"
 
 msgid "camera_ib_not_able_to_change_to_video_mode"
-msgstr "사진 저장이 완료될 때까지 동영상 모드를 활성화할 수 없습니다. "
+msgstr "이전 이미지가 완전히 처리되기 전에는 비디오 방식은 활성화 될 수 없습니다"
 
 msgid "camera_ib_not_available"
 msgstr "사용 불가능함"
@@ -201,7 +204,7 @@ msgid "camera_ni_operation_failed"
 msgstr "작업이 실패함"
 
 msgid "camera_ni_operation_processing"
-msgstr "Previous operation being processed"
+msgstr "처리 중인 이전 작업"
 
 msgid "camera_ni_operation_writingfail"
 msgstr "Writing of media failed"
@@ -256,3 +259,15 @@ msgstr "해제"
 
 msgid "camera_va_show_post_capture_seconds"
 msgstr "%d 초 동안"
+
+msgid "camera_bd_resolution_video_hd_4x3"
+msgstr "HD 4:3"
+
+msgid "camera_bd_resolution_video_hd_16x9"
+msgstr "HD 16:9"
+
+msgid "camera_bd_resolution_video_dvd_4x3"
+msgstr "DVD 4:3"
+
+msgid "camera_bd_resolution_video_dvd_16x9"
+msgstr "DVD 16:9"

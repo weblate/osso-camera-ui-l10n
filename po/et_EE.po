@@ -3,31 +3,34 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
+"issues/list\n"
 "POT-Creation-Date: 2009.10.13 12:03+0300\n"
-"PO-Revision-Date: 2010-11-30 11:39+0000\n"
-"Last-Translator: \n"
-"Language-Team: Estonian (http://www.transifex.net/projects/p/n900-extra-translations/language/et/)\n"
+"PO-Revision-Date: 2022-01-02 06:53+0000\n"
+"Last-Translator: Kristjan Räts <kristjanrats@gmail.com>\n"
+"Language-Team: Estonian <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-camera-ui-l10n/et/>\n"
+"Language: et_EE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: et\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 msgid "camera_ap_camera"
-msgstr "Camera"
+msgstr "Kaamera"
 
 msgid "camera_bd_flash_always_off"
-msgstr "Always off"
+msgstr "Alati välja lülitatud"
 
 msgid "camera_bd_flash_always_on"
-msgstr "Always on"
+msgstr "Alati sisse lülitatud"
 
 msgid "camera_bd_flash_automatic"
-msgstr "Automatic"
+msgstr "Automaatne"
 
 msgid "camera_bd_flash_red_eye"
-msgstr "Red eye reduction"
+msgstr "Punasilmsuse vähendamine"
 
 msgid "camera_bd_iso_100"
 msgstr "100"
@@ -39,43 +42,43 @@ msgid "camera_bd_iso_400"
 msgstr "400"
 
 msgid "camera_bd_iso_automatic"
-msgstr "Automatic"
+msgstr "Automaatne"
 
 msgid "camera_bd_mode_action"
 msgstr "Action"
 
 msgid "camera_bd_mode_automatic"
-msgstr "Automatic"
+msgstr "Automaatne"
 
 msgid "camera_bd_mode_automatic_video"
-msgstr "Automatic video"
+msgstr "Automaatne video"
 
 msgid "camera_bd_mode_landscape"
-msgstr "Landscape"
+msgstr "Maastik"
 
 msgid "camera_bd_mode_macro"
-msgstr "Macro"
+msgstr "Makro"
 
 msgid "camera_bd_mode_night"
-msgstr "Night"
+msgstr "Öö"
 
 msgid "camera_bd_mode_night_video"
-msgstr "Night video"
+msgstr "Öine video"
 
 msgid "camera_bd_mode_portrait"
-msgstr "Portrait"
+msgstr "Portree"
 
 msgid "camera_bd_resolution_high"
-msgstr "High resolution"
+msgstr "Kõrge lahutusega"
 
 msgid "camera_bd_resolution_low"
-msgstr "Low resolution"
+msgstr "Madala lahutusega"
 
 msgid "camera_bd_resolution_medium"
-msgstr "Medium resolution"
+msgstr "Keskmise lahutusega"
 
 msgid "camera_bd_resolution_video_fine"
-msgstr "Fine 4:3"
+msgstr "Täpne 4:3"
 
 msgid "camera_bd_resolution_video_high"
 msgstr "High 16:9"
@@ -84,64 +87,67 @@ msgid "camera_bd_resolution_video_low"
 msgstr "Low 4:3"
 
 msgid "camera_bd_resolution_wide"
-msgstr "Widescreen resolution"
+msgstr "Laiekraanlahutus"
 
 msgid "camera_bd_settings_exposure"
-msgstr "Exposure"
+msgstr "Säritus"
 
 msgid "camera_bd_settings_iso"
-msgstr "ISO sensitivity"
+msgstr "ISO tundlikkus"
 
 msgid "camera_bd_settings_resolution"
-msgstr "Resolution"
+msgstr "Resolutsioon"
 
 msgid "camera_bd_settings_wb"
 msgstr "White balance"
 
 msgid "camera_bd_wb_automatic"
-msgstr "Automatic"
+msgstr "Automaatne"
 
 msgid "camera_bd_wb_cloudy"
-msgstr "Cloudy"
+msgstr "Pilvine"
 
 msgid "camera_bd_wb_fluorescent"
-msgstr "Fluorescent"
+msgstr "Fluorestseeriv"
 
 msgid "camera_bd_wb_sunny"
-msgstr "Sunny"
+msgstr "Päikseline"
 
 msgid "camera_bd_wb_tungsten"
-msgstr "Tungsten"
+msgstr "Tehisvalgus"
 
 msgid "camera_fi_acquiring_geotags"
-msgstr "Acquiring geotags"
+msgstr "Geosiltide hankimine"
 
 msgid "camera_fi_creator"
-msgstr "Creator name"
+msgstr "Autori nimi"
 
 msgid "camera_fi_memory_in_use"
-msgstr "Memory in use"
+msgstr "Mälu kasutus"
 
 msgid "camera_fi_show_post_capture"
-msgstr "Show captured image"
+msgstr "Kuva jäädvustatud pilt"
 
 msgid "camera_fi_show_post_capture_video"
-msgstr "Show captured video"
+msgstr "Kuva jäädvustatud video"
 
 msgid "camera_fi_stickytags"
-msgstr "Sticky tags"
+msgstr "Kleepuvad sildid"
 
 msgid "camera_ia_geotag"
-msgstr "GPS co-ordinates and geotags can be recorded to images and video clips if GPS is available. Geotagging requires an internet connection and involves transmission of data. Contact your network service provider for information about data transmission charges."
+msgstr ""
+"Kui GPS on saadaval, siis on võimalik lisada piltidele ja videotele GPS "
+"koordinaadid ja geosildid. Viimane vajab Interneti ühendust ja sisaldab "
+"andmevahetust. Andmevahetuse hinnad saad teada oma võrguühenduse pakkujalt."
 
 msgid "camera_ia_open_lens_cover"
-msgstr "Open lens cover"
+msgstr "Ava objektiivi kate"
 
 msgid "camera_ia_processing"
-msgstr "Processing image"
+msgstr "Pildi töötlemine"
 
 msgid "camera_ia_standby"
-msgstr "Standby"
+msgstr "Ooterežiim"
 
 msgid "camera_ib_internal_memory_not_accessible"
 msgstr "Internal memory not accessible. External memory card will be used instead."
@@ -256,3 +262,15 @@ msgstr "No"
 
 msgid "camera_va_show_post_capture_seconds"
 msgstr "For %d seconds"
+
+msgid "camera_bd_resolution_video_hd_4x3"
+msgstr "HD 4:3"
+
+msgid "camera_bd_resolution_video_hd_16x9"
+msgstr "HD 16:9"
+
+msgid "camera_bd_resolution_video_dvd_4x3"
+msgstr "DVD 4:3"
+
+msgid "camera_bd_resolution_video_dvd_16x9"
+msgstr "DVD 16:9"
