@@ -3,266 +3,280 @@ msgstr ""
 "Project-Id-Version: osso-camera-ui 20100208121230\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.08 12:12+0200\n"
-"PO-Revision-Date: 2010.02.08 12:12+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 19:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-camera-ui-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "camera_ap_camera"
-msgstr ""
+msgstr "கேமரா"
 
 msgid "camera_bd_flash_always_off"
-msgstr ""
+msgstr "எப்போதும் அணைக்கவும்"
 
 msgid "camera_bd_flash_always_on"
-msgstr ""
+msgstr "எப்போதும் இயக்கவும்"
 
 msgid "camera_bd_flash_automatic"
-msgstr ""
+msgstr "தானியங்கி"
 
 msgid "camera_bd_flash_red_eye"
-msgstr ""
+msgstr "சிவப்பு கண் குறைப்பு"
 
 msgid "camera_bd_iso_100"
-msgstr ""
+msgstr "100"
 
 msgid "camera_bd_iso_200"
-msgstr ""
+msgstr "200"
 
 msgid "camera_bd_iso_400"
-msgstr ""
+msgstr "400"
 
 msgid "camera_bd_iso_automatic"
-msgstr ""
+msgstr "தானியங்கி"
 
 msgid "camera_bd_mode_action"
-msgstr ""
+msgstr "செயல்"
 
 msgid "camera_bd_mode_automatic"
-msgstr ""
+msgstr "தானியங்கி"
 
 msgid "camera_bd_mode_automatic_video"
-msgstr ""
+msgstr "தானியங்கி வீடியோ"
 
 msgid "camera_bd_mode_landscape"
-msgstr ""
+msgstr "நிலப்பரப்பு"
 
 msgid "camera_bd_mode_macro"
-msgstr ""
+msgstr "குறுநிரல்"
 
 msgid "camera_bd_mode_night"
-msgstr ""
+msgstr "இரவு"
 
 msgid "camera_bd_mode_night_video"
-msgstr ""
+msgstr "இரவு வீடியோ"
 
 msgid "camera_bd_mode_portrait"
-msgstr ""
+msgstr "உருவப்படம்"
 
 msgid "camera_bd_resolution_high"
-msgstr ""
+msgstr "உயர் தெளிவுத்திறன்"
 
 msgid "camera_bd_resolution_low"
-msgstr ""
+msgstr "குறைந்த தெளிவுத்திறன்"
 
 msgid "camera_bd_resolution_medium"
-msgstr ""
+msgstr "நடுத்தர தீர்மானம்"
 
 msgid "camera_bd_resolution_video_hd_4x3"
-msgstr ""
+msgstr "HD 4: 3"
 
 msgid "camera_bd_resolution_video_hd_16x9"
-msgstr ""
+msgstr "HD 16: 9"
 
 msgid "camera_bd_resolution_video_dvd_4x3"
-msgstr ""
+msgstr "டிவிடி 4: 3"
 
 msgid "camera_bd_resolution_video_dvd_16x9"
-msgstr ""
+msgstr "டிவிடி 16: 9"
 
 msgid "camera_bd_resolution_video_fine"
-msgstr ""
+msgstr "தண்டம் 4: 3"
 
 msgid "camera_bd_resolution_video_high"
-msgstr ""
+msgstr "உயர் 16: 9"
 
 msgid "camera_bd_resolution_video_low"
-msgstr ""
+msgstr "குறைந்த 4: 3"
 
 msgid "camera_bd_resolution_wide"
-msgstr ""
+msgstr "அகலத்திரை தீர்மானம்"
 
 msgid "camera_bd_settings_exposure"
-msgstr ""
+msgstr "நேரிடுவது"
 
 msgid "camera_bd_settings_iso"
-msgstr ""
+msgstr "ஐஎச்ஓ உணர்திறன்"
 
 msgid "camera_bd_settings_resolution"
-msgstr ""
+msgstr "பகுத்தல்"
 
 msgid "camera_bd_settings_wb"
-msgstr ""
+msgstr "வெள்ளை இருப்பு"
 
 msgid "camera_bd_wb_automatic"
-msgstr ""
+msgstr "தானியங்கி"
 
 msgid "camera_bd_wb_cloudy"
-msgstr ""
+msgstr "மேகமூட்டமான"
 
 msgid "camera_bd_wb_fluorescent"
-msgstr ""
+msgstr "ஒளிரும்"
 
 msgid "camera_bd_wb_sunny"
-msgstr ""
+msgstr "சன்னி"
 
 msgid "camera_bd_wb_tungsten"
-msgstr ""
+msgstr "மெல்லிழையம்"
 
 msgid "camera_fi_acquiring_geotags"
-msgstr ""
+msgstr "சியோடாக்சைப் பெறுதல்"
 
 msgid "camera_fi_creator"
-msgstr ""
+msgstr "படைப்பாளரின் பெயர்"
 
 msgid "camera_fi_memory_in_use"
-msgstr ""
+msgstr "பயன்பாட்டில் நினைவகம்"
 
 msgid "camera_fi_show_post_capture"
-msgstr ""
+msgstr "கைப்பற்றப்பட்ட படத்தைக் காட்டு"
 
 msgid "camera_fi_show_post_capture_video"
-msgstr ""
+msgstr "கைப்பற்றப்பட்ட வீடியோவைக் காட்டு"
 
 msgid "camera_fi_stickytags"
-msgstr ""
+msgstr "ஒட்டும் குறிச்சொற்கள்"
 
 msgid "camera_ia_geotag"
 msgstr ""
+"சி.பி.எச் ஒருங்கிணைப்புகள் மற்றும் சியோடாக்சை சி.பி.எச் கிடைத்தால் படங்கள் மற்றும் வீடியோ "
+"கிளிப்களுக்கு பதிவு செய்யலாம். சியோடாகிங்கிற்கு இணைய இணைப்பு தேவைப்படுகிறது மற்றும் "
+"தரவு பரிமாற்றத்தை உள்ளடக்கியது. தரவு பரிமாற்ற கட்டணங்கள் குறித்த தகவலுக்கு உங்கள் பிணைய "
+"பணி வழங்குநரைத் தொடர்பு கொள்ளுங்கள்."
 
 msgid "camera_ia_open_lens_cover"
-msgstr ""
+msgstr "திறந்த லென்ச் கவர்"
 
 msgid "camera_ia_processing"
-msgstr ""
+msgstr "செயலாக்க படம்"
 
 msgid "camera_ia_standby"
-msgstr ""
+msgstr "காத்திருப்பு"
 
 msgid "camera_ib_internal_memory_not_accessible"
 msgstr ""
+"உள் நினைவகம் அணுக முடியாது. அதற்கு பதிலாக வெளிப்புற நினைவக அட்டை பயன்படுத்தப்படும்."
 
 msgid "camera_ib_memory_card_corrupt"
 msgstr ""
+"நினைவக அட்டை ஊழல் நிறைந்ததாக இருக்கலாம். அதற்கு பதிலாக சாதன நினைவகம் பயன்படுத்தப்படும்."
 
 msgid "camera_ib_memory_card_not_accessible"
 msgstr ""
+"நினைவக அட்டை அணுக முடியாது. அதற்கு பதிலாக சாதன நினைவகம் பயன்படுத்தப்படும்."
 
 msgid "camera_ib_memory_card_read_only"
 msgstr ""
+"நினைவக அட்டை படிக்க மட்டுமே. அதற்கு பதிலாக சாதன நினைவகம் பயன்படுத்தப்படும்."
 
 msgid "camera_ib_no_memory_accessible"
-msgstr ""
+msgstr "நினைவகம் அணுக முடியாது. உள்ளடக்கத்தை சேமிக்க முடியவில்லை."
 
 msgid "camera_ib_no_memory_card"
 msgstr ""
+"உள் சேமிப்பு நினைவகம் மட்டுமே கிடைக்கிறது. அமைப்பை மாற்ற நினைவக கார்டைச் செருகவும்."
 
 msgid "camera_ib_not_able_to_change_settings"
 msgstr ""
+"முந்தைய உருப்படி முழுமையாக செயலாக்கப்படும் வரை அமைப்புகளை மாற்ற முடியவில்லை"
 
 msgid "camera_ib_not_able_to_change_to_video_mode"
 msgstr ""
+"முந்தைய படம் முழுமையாக செயலாக்கப்படுவதற்கு முன்பு வீடியோ பயன்முறையை செயல்படுத்த "
+"முடியாது"
 
 msgid "camera_ib_not_available"
-msgstr ""
+msgstr "கிடைக்கவில்லை"
 
 msgid "camera_ib_not_enough_memory"
-msgstr ""
+msgstr "செயல்பாடு தோல்வியடைந்தது. நினைவகம் குறைவாக."
 
 msgid "camera_ib_out_of_storage"
-msgstr ""
+msgstr "நினைவகம் நிரம்பியுள்ளது. உள்ளடக்கத்தை சேமிக்க முடியவில்லை."
 
 msgid "camera_ib_recording_stopped"
-msgstr ""
+msgstr "பதிவு நிறுத்தப்பட்டது. தொடர்ந்து பதிவு செய்ய நினைவகம் எதுவும் இல்லை."
 
 msgid "camera_me_general_settings"
-msgstr ""
+msgstr "பொது அமைப்புகள்"
 
 msgid "camera_me_geotag"
-msgstr ""
+msgstr "சியோடாகிங்"
 
 msgid "camera_me_restore_settings"
-msgstr ""
+msgstr "அமைப்புகளை மீட்டெடுங்கள்"
 
 msgid "camera_nc_delete_imageclip"
-msgstr ""
+msgstr "கோப்பை '%s' நீக்கவா?"
 
 msgid "camera_nc_restore_settings"
-msgstr ""
+msgstr "இயல்புநிலை கேமரா அமைப்புகளை மீட்டெடுக்கவா?"
 
 msgid "camera_ni_not_enough_memory_to_open"
-msgstr ""
+msgstr "கேமராவைத் திறக்க போதுமான நினைவகம் இல்லை"
 
 msgid "camera_ni_operation_failed"
-msgstr ""
+msgstr "செயல்பாடு தோல்வியடைந்தது"
 
 msgid "camera_ni_operation_processing"
-msgstr ""
+msgstr "முந்தைய செயல்பாடு செயலாக்கப்படுகிறது"
 
 msgid "camera_ni_operation_writingfail"
-msgstr ""
+msgstr "சேமிப்பு தோல்வியடைந்தது"
 
 msgid "camera_ti_camera_mode"
-msgstr ""
+msgstr "கேமரா பயன்முறை"
 
 msgid "camera_ti_camera_settings"
-msgstr ""
+msgstr "அமைப்புகளைப் பிடிக்கவும்"
 
 msgid "camera_ti_exposure"
-msgstr ""
+msgstr "வெளிப்பாடு அமைப்புகளை சரிசெய்யவும்"
 
 msgid "camera_ti_flash"
-msgstr ""
+msgstr "ஃபிளாச் அமைப்புகள்"
 
 msgid "camera_ti_general"
-msgstr ""
+msgstr "பொது அமைப்புகள்"
 
 msgid "camera_ti_geotag"
-msgstr ""
+msgstr "சியோடாகிங்"
 
 msgid "camera_ti_geotag_checkbox"
-msgstr ""
+msgstr "சியோடாகிங்கை இயக்கவும்"
 
 msgid "camera_ti_idle"
-msgstr ""
+msgstr "கேமரா"
 
 msgid "camera_ti_iso"
-msgstr ""
+msgstr "ஐஎச்ஓ உணர்திறன்"
 
 msgid "camera_ti_resolution"
-msgstr ""
+msgstr "தீர்மான அமைப்புகள்"
 
 msgid "camera_ti_video_capture_settings"
-msgstr ""
+msgstr "வீடியோ பிடிப்பு அமைப்புகள்"
 
 msgid "camera_ti_video_mode"
-msgstr ""
+msgstr "வீடியோ பயன்முறை"
 
 msgid "camera_ti_white_balance"
-msgstr ""
+msgstr "வெள்ளை இருப்பு"
 
 msgid "camera_va_memory_internal"
-msgstr ""
+msgstr "உள் சேமிப்பு"
 
 msgid "camera_va_show_post_capture_manual"
-msgstr ""
+msgstr "நேரம் இல்லை"
 
 msgid "camera_va_show_post_capture_no"
-msgstr ""
+msgstr "இல்லை"
 
 msgid "camera_va_show_post_capture_seconds"
-msgstr ""
+msgstr "%d விநாடிகளுக்கு"
